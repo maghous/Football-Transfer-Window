@@ -1,0 +1,1209 @@
+name,position,age,market_value,country_from,league_from,club_from,country_to,league_to,club_to,fee,loan
+Trent Alexander-Arnold,Right-Back,26,€75.00m,England,Premier League,Liverpool FC,Spain,LaLiga,Real Madrid,10.0,False
+Matheus Cunha,Second Striker,26,€60.00m,England,Premier League,Wolverhampton Wanderers,England,Premier League,Manchester United,74.2,False
+Dean Huijsen,Centre-Back,20,€60.00m,England,Premier League,AFC Bournemouth,Spain,LaLiga,Real Madrid,62.5,False
+Estêvão,Right Winger,18,€60.00m,Brazil,Série A,Sociedade Esportiva Palmeiras,England,Premier League,Chelsea FC,34.0,False
+Tijjani Reijnders,Central Midfield,26,€50.00m,Italy,Serie A,AC Milan,England,Premier League,Manchester City,55.0,False
+Jeremie Frimpong,Right-Back,24,€50.00m,Germany,Bundesliga,Bayer 04 Leverkusen,England,Premier League,Liverpool FC,40.0,False
+Franco Mastantuono,Right Winger,18,€30.00m,Argentina,Torneo Apertura,CA River Plate,Spain,LaLiga,Real Madrid,45.0,False
+Rayan Cherki,Right Winger,21,€45.00m,France,Ligue 1,Olympique Lyon,England,Premier League,Manchester City,36.5,False
+Jean-Clair Todibo,Centre-Back,25,€25.00m,France,Ligue 1,OGC Nice,England,Premier League,West Ham United,40.0,False
+Liam Delap,Centre-Forward,22,€40.00m,England,Premier League,Ipswich Town,England,Premier League,Chelsea FC,35.5,False
+Rayan Aït-Nouri,Left-Back,24,€35.00m,England,Premier League,Wolverhampton Wanderers,England,Premier League,Manchester City,36.8,False
+Mathys Tel,Centre-Forward,20,€35.00m,Germany,Bundesliga,Bayern Munich,England,Premier League,Tottenham Hotspur,35.0,False
+Charalampos Kostoulas,Centre-Forward,18,€12.00m,Greece,Super League 1,Olympiacos Piraeus,England,Premier League,Brighton & Hove Albion,35.0,False
+Mohamed Amoura,Centre-Forward,25,€32.00m,Belgium,Jupiler Pro League,Union Saint-Gilloise,Germany,Bundesliga,VfL Wolfsburg,14.75,False
+Leroy Sané,Right Winger,29,€32.00m,Germany,Bundesliga,Bayern Munich,Türkiye,Süper Lig,Galatasaray,0,False
+Jobe Bellingham,Central Midfield,19,€22.00m,England,Championship,Sunderland AFC,Germany,Bundesliga,Borussia Dortmund,30.5,False
+Jonathan Tah,Centre-Back,29,€30.00m,Germany,Bundesliga,Bayer 04 Leverkusen,Germany,Bundesliga,Bayern Munich,800k,False
+Tom Bischof,Central Midfield,19,€30.00m,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,Bundesliga,Bayern Munich,300k,False
+Nico González,Right Winger,27,€24.00m,Italy,Serie A,ACF Fiorentina,Italy,Serie A,Juventus FC,28.1,False
+Pierre Kalulu,Centre-Back,25,€26.00m,Italy,Serie A,AC Milan,Italy,Serie A,Juventus FC,14.3,False
+Yan Couto,Right-Back,23,€20.00m,England,Premier League,Manchester City,Germany,Bundesliga,Borussia Dortmund,25.0,False
+Joan García,Goalkeeper,24,€25.00m,Spain,LaLiga,RCD Espanyol Barcelona,Spain,LaLiga,FC Barcelona,25.0,False
+Kevin Danso,Centre-Back,26,€25.00m,France,Ligue 1,RC Lens,England,Premier League,Tottenham Hotspur,25.0,False
+Luis Henrique,Right Midfield,23,€25.00m,France,Ligue 1,Olympique Marseille,Italy,Serie A,Inter Milan,23.0,False
+Odilon Kossounou,Centre-Back,24,€25.00m,Germany,Bundesliga,Bayer 04 Leverkusen,Italy,Serie A,Atalanta BC,20.0,False
+Alberto Moleiro,Left Winger,21,€25.00m,Spain,LaLiga2,UD Las Palmas,Spain,LaLiga,Villarreal CF,16.0,False
+Nuno Tavares,Left-Back,25,€25.00m,England,Premier League,Arsenal FC,Italy,Serie A,SS Lazio,5.0,False
+Enzo Le Fée,Central Midfield,25,€18.00m,Italy,Serie A,AS Roma,England,Premier League,Sunderland AFC,23.0,False
+Dário Essugo,Defensive Midfield,20,€20.00m,Portugal,Liga Portugal,Sporting CP,England,Premier League,Chelsea FC,22.27,False
+Arthur Vermeeren,Defensive Midfield,20,€22.00m,Spain,LaLiga,Atlético de Madrid,Germany,Bundesliga,RB Leipzig,20.0,False
+Martin Baturina,Attacking Midfield,22,€22.00m,Croatia,SuperSport HNL,GNK Dinamo Zagreb,Italy,Serie A,Como 1907,18.0,False
+Chrislain Matsima,Centre-Back,23,€22.00m,Monaco,Ligue 1,AS Monaco,Germany,Bundesliga,FC Augsburg,5.0,False
+Caoimhín Kelleher,Goalkeeper,26,€20.00m,England,Premier League,Liverpool FC,England,Premier League,Brentford FC,14.8,False
+Mamadou Sarr,Centre-Back,19,€20.00m,France,Ligue 1,RC Strasbourg Alsace,England,Premier League,Chelsea FC,14.0,False
+Pierre-Emile Højbjerg,Defensive Midfield,29,€20.00m,England,Premier League,Tottenham Hotspur,France,Ligue 1,Olympique Marseille,13.5,False
+Angel Gomes,Attacking Midfield,24,€20.00m,France,Ligue 1,LOSC Lille,France,Ligue 1,Olympique Marseille,0,False
+Kevin De Bruyne,Attacking Midfield,34,€20.00m,England,Premier League,Manchester City,Italy,Serie A,SSC Napoli,0,False
+Michael Kayode,Right-Back,20,€18.00m,Italy,Serie A,ACF Fiorentina,England,Premier League,Brentford FC,17.5,False
+Gabri Veiga,Attacking Midfield,23,€18.00m,Saudi Arabia,Saudi Pro League,Al-Ahli SFC,Portugal,Liga Portugal,FC Porto,15.0,False
+Michele Di Gregorio,Goalkeeper,27,€18.00m,Italy,Serie B,AC Monza,Italy,Serie A,Juventus FC,14.3,False
+Nicolò Fagioli,Central Midfield,24,€18.00m,Italy,Serie A,Juventus FC,Italy,Serie A,ACF Fiorentina,13.5,False
+Lloyd Kelly,Centre-Back,26,€16.00m,England,Premier League,Newcastle United,Italy,Serie A,Juventus FC,17.2,False
+Lazar Samardžić,Attacking Midfield,23,€17.00m,Italy,Serie A,Udinese Calcio,Italy,Serie A,Atalanta BC,14.8,False
+Sofyan Amrabat,Defensive Midfield,28,€17.00m,Italy,Serie A,ACF Fiorentina,Türkiye,Süper Lig,Fenerbahce,12.0,False
+Ezechiel Banzuzi,Central Midfield,20,€13.00m,Belgium,Jupiler Pro League,Oud-Heverlee Leuven,Germany,Bundesliga,RB Leipzig,16.0,False
+Sem Steijn,Attacking Midfield,23,€16.00m,Netherlands,Eredivisie,Twente Enschede FC,Netherlands,Eredivisie,Feyenoord Rotterdam,10.0,False
+CJ Egan-Riley,Centre-Back,22,€16.00m,England,Premier League,Burnley FC,France,Ligue 1,Olympique Marseille,0,False
+Gabriel Carvalho,Right Winger,18,€12.00m,Brazil,Série A,Sport Club Internacional,Saudi Arabia,Without League,Al-Qadsiah FC,15.6,False
+Carlos Alcaraz,Central Midfield,22,€14.00m,Brazil,Série A,CR Flamengo,England,Premier League,Everton FC,15.0,False
+Adrien Truffert,Left-Back,23,€15.00m,France,Ligue 1,Stade Rennais FC,England,Premier League,AFC Bournemouth,13.5,False
+Saïd Benrahma,Left Winger,29,€15.00m,France,Ligue 1,Olympique Lyon,Saudi Arabia,Without League,NEOM SC,12.0,False
+Jonathan Rowe,Left Winger,22,€12.00m,England,Championship,Norwich City,France,Ligue 1,Olympique Marseille,14.5,False
+Petar Sučić,Defensive Midfield,21,€14.00m,Croatia,SuperSport HNL,GNK Dinamo Zagreb,Italy,Serie A,Inter Milan,14.0,False
+Bashir Humphreys,Left-Back,22,€7.00m,England,Premier League,Chelsea FC,England,Premier League,Burnley FC,14.0,False
+Rasmus Kristensen,Right-Back,27,€14.00m,England,Premier League,Leeds United,Germany,Bundesliga,Eintracht Frankfurt,6.0,False
+Nehuén Pérez,Centre-Back,25,€13.00m,Italy,Serie A,Udinese Calcio,Portugal,Liga Portugal,FC Porto,13.3,False
+Ibrahim Maza,Attacking Midfield,19,€12.00m,Germany,2. Bundesliga,Hertha BSC,Germany,Bundesliga,Bayer 04 Leverkusen,12.0,False
+Lorenz Assignon,Right-Back,25,€9.00m,France,Ligue 1,Stade Rennais FC,Germany,Bundesliga,VfB Stuttgart,12.0,False
+Lilian Brassier,Centre-Back,25,€10.00m,France,Ligue 1,Stade Brestois 29,France,Ligue 1,Stade Rennais FC,12.0,False
+Arthur Cabral,Centre-Forward,27,€10.00m,Portugal,Liga Portugal,SL Benfica,Brazil,Série A,Botafogo de Futebol e Regatas,12.0,False
+Tom Watson,Left Winger,19,€8.00m,England,Premier League,Sunderland AFC,England,Premier League,Brighton & Hove Albion,12.0,False
+Luka Vuskovic,Centre-Back,18,€12.00m,Croatia,SuperSport HNL,HNK Hajduk Split,England,Premier League,Tottenham Hotspur,11.0,False
+Benedict Hollerbach,Centre-Forward,24,€12.00m,Germany,Bundesliga,1.FC Union Berlin,Germany,Bundesliga,1.FSV Mainz 05,10.0,False
+Marcus Edwards,Right Winger,26,€12.00m,Portugal,Liga Portugal,Sporting CP,England,Premier League,Burnley FC,10.0,False
+Daniel Svensson,Left-Back,23,€12.00m,Denmark,Superliga,FC Nordsjaelland,Germany,Bundesliga,Borussia Dortmund,6.5,False
+Kevin Lomónaco,Centre-Back,23,€12.00m,Brazil,Série A,Red Bull Bragantino,Argentina,Torneo Apertura,CA Independiente,2.88,False
+Amar Dedic,Right-Back,22,€12.00m,France,Ligue 1,Olympique Marseille,Austria,Bundesliga,Red Bull Salzburg,100k,False
+Diego Coppola,Centre-Back,21,€10.00m,Italy,Serie A,Hellas Verona,England,Premier League,Brighton & Hove Albion,11.0,False
+Mark Flekken,Goalkeeper,32,€10.00m,England,Premier League,Brentford FC,Germany,Bundesliga,Bayer 04 Leverkusen,10.0,False
+Yuito Suzuki,Attacking Midfield,23,€10.00m,Denmark,Superliga,Bröndby IF,Germany,Bundesliga,SC Freiburg,10.0,False
+Kendry Páez,Attacking Midfield,18,€10.00m,Ecuador,LigaPro Serie A,Independiente del Valle,England,Premier League,Chelsea FC,10.0,False
+Marco Brescianini,Central Midfield,25,€8.00m,Italy,Serie B,Frosinone Calcio,Italy,Serie A,Atalanta BC,10.0,False
+Krzysztof Piatek,Centre-Forward,30,€8.50m,Türkiye,Süper Lig,Basaksehir FK,Qatar,Without League,Al-Duhail SC,10.0,False
+Leon Avdullahu,Defensive Midfield,21,€10.00m,Switzerland,Super League,FC Basel 1893,Germany,Bundesliga,TSG 1899 Hoffenheim,8.0,False
+Jaidon Anthony,Left Winger,25,€9.00m,England,Premier League,AFC Bournemouth,England,Premier League,Burnley FC,9.5,False
+Natan,Centre-Back,24,€9.00m,Italy,Serie A,SSC Napoli,Spain,LaLiga,Real Betis Balompié,9.0,False
+Samuel Dahl,Left-Back,22,€7.00m,Italy,Serie A,AS Roma,Portugal,Liga Portugal,SL Benfica,9.0,False
+Luca Marianucci,Centre-Back,20,€7.50m,Italy,Serie B,FC Empoli,Italy,Serie A,SSC Napoli,9.0,False
+Kieran Tierney,Left-Back,28,€9.00m,England,Premier League,Arsenal FC,Scotland,Premiership,Celtic FC,0,False
+Cyriaque Irié,Right Winger,20,€8.00m,France,Ligue 2,ESTAC Troyes,Germany,Bundesliga,SC Freiburg,8.5,False
+Christian Ordóñez,Central Midfield,20,€7.00m,Argentina,Torneo Apertura,CA Vélez Sarsfield,Italy,Serie A,Parma Calcio 1913,8.5,False
+Hans Nicolussi Caviglia,Central Midfield,25,€8.50m,Italy,Serie A,Juventus FC,Italy,Serie B,Venezia FC,3.5,False
+Zian Flemming,Centre-Forward,26,€6.50m,England,Championship,Millwall FC,England,Premier League,Burnley FC,8.3,False
+Ismail Jakobs,Left-Back,25,€7.00m,Monaco,Ligue 1,AS Monaco,Türkiye,Süper Lig,Galatasaray,8.0,False
+Robin Gosens,Left-Back,30,€8.00m,Germany,Bundesliga,1.FC Union Berlin,Italy,Serie A,ACF Fiorentina,7.0,False
+Neal Maupay,Centre-Forward,28,€8.00m,England,Premier League,Everton FC,France,Ligue 1,Olympique Marseille,4.0,False
+Michal Sadílek,Central Midfield,26,€8.00m,Netherlands,Eredivisie,Twente Enschede FC,Czech Republic,Chance Liga,SK Slavia Prague,3.5,False
+Yoann Cathline,Left Winger,22,€8.00m,France,Ligue 1,FC Lorient,Netherlands,Eredivisie,FC Utrecht,2.8,False
+Eric Dier,Centre-Back,31,€8.00m,Germany,Bundesliga,Bayern Munich,Monaco,Ligue 1,AS Monaco,0,False
+Álvaro Montoro,Attacking Midfield,18,€3.50m,Argentina,Torneo Apertura,CA Vélez Sarsfield,Brazil,Série A,Botafogo de Futebol e Regatas,7.9,False
+Yasin Özcan,Centre-Back,19,€7.50m,Türkiye,Süper Lig,Kasimpasa,England,Premier League,Aston Villa,7.0,False
+Fisayo Dele-Bashiru,Attacking Midfield,24,€7.50m,Türkiye,Without League,Hatayspor,Italy,Serie A,SS Lazio,3.43,False
+Clément Lenglet,Centre-Back,29,€7.50m,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Atlético de Madrid,0,False
+Przemyslaw Frankowski,Right-Back,30,€7.00m,France,Ligue 1,RC Lens,Türkiye,Süper Lig,Galatasaray,7.0,False
+Samuel Amo-Ameyaw,Right Winger,18,€4.00m,England,Championship,Southampton FC,France,Ligue 1,RC Strasbourg Alsace,7.0,False
+Nicolò Tresoldi,Centre-Forward,20,€5.00m,Germany,2. Bundesliga,Hannover 96,Belgium,Jupiler Pro League,Club Brugge KV,7.0,False
+Marius Broholm,Right Winger,20,€7.00m,Norway,Eliteserien,Rosenborg BK,France,Ligue 1,LOSC Lille,6.0,False
+Ísak Jóhannesson,Central Midfield,22,€7.00m,Germany,2. Bundesliga,Fortuna Düsseldorf,Germany,Bundesliga,1.FC Köln,5.5,False
+Felix Uduokhai,Centre-Back,27,€7.00m,Germany,Bundesliga,FC Augsburg,Türkiye,Süper Lig,Besiktas JK,5.0,False
+Rui Silva,Goalkeeper,31,€7.00m,Spain,LaLiga,Real Betis Balompié,Portugal,Liga Portugal,Sporting CP,4.7,False
+Ragnar Ache,Centre-Forward,26,€7.00m,Germany,2. Bundesliga,1.FC Kaiserslautern,Germany,Bundesliga,1.FC Köln,4.5,False
+Cédric Zesiger,Centre-Back,27,€7.00m,Germany,Bundesliga,VfL Wolfsburg,Germany,Bundesliga,FC Augsburg,4.0,False
+Tarik Muharemovic,Centre-Back,22,€7.00m,Italy,Without League,Juventus Next Gen,Italy,Serie A,US Sassuolo,3.0,False
+Denis Vavro,Centre-Back,29,€7.00m,Denmark,Superliga,FC Copenhagen,Germany,Bundesliga,VfL Wolfsburg,2.0,False
+Jeremy Agbonifo,Right Winger,19,€5.00m,Sweden,Allsvenskan,BK Häcken,France,Ligue 1,RC Lens,6.5,False
+Nicolò Casale,Centre-Back,27,€6.00m,Italy,Serie A,SS Lazio,Italy,Serie A,Bologna FC 1909,6.5,False
+Pedro Malheiro,Right-Back,24,€6.00m,Türkiye,Süper Lig,Trabzonspor,United Arab Emirates,Without League,Al-Wasl FC,6.13,False
+Ilaix Moriba,Central Midfield,22,€6.00m,Germany,Bundesliga,RB Leipzig,Spain,LaLiga,Celta de Vigo,6.0,False
+Álex Valle,Left-Back,21,€6.00m,Spain,LaLiga,FC Barcelona,Italy,Serie A,Como 1907,6.0,False
+Gianluca Gaetano,Attacking Midfield,25,€4.00m,Italy,Serie A,SSC Napoli,Italy,Serie A,Cagliari Calcio,6.0,False
+Zeidane Inoussa,Left Winger,23,€3.00m,Sweden,Allsvenskan,BK Häcken,Wales,Championship,Swansea City,6.0,False
+Jens Castrop,Central Midfield,21,€6.00m,Germany,2. Bundesliga,1.FC Nuremberg,Germany,Bundesliga,Borussia Mönchengladbach,4.5,False
+Mihajlo Cvetkovic,Centre-Forward,18,€6.00m,Serbia,Super liga Srbije,FK Cukaricki,Belgium,Jupiler Pro League,RSC Anderlecht,3.2,False
+Fran Navarro,Centre-Forward,27,€6.00m,Portugal,Liga Portugal,FC Porto,Portugal,Liga Portugal,SC Braga,2.7,False
+Augusto Batalla,Goalkeeper,29,€6.00m,Argentina,Torneo Apertura,CA River Plate,Spain,LaLiga,Rayo Vallecano,1.6,False
+Jorginho,Defensive Midfield,33,€6.00m,England,Premier League,Arsenal FC,Brazil,Série A,CR Flamengo,0,False
+Giorgi Kochorashvili,Defensive Midfield,26,€4.00m,Spain,LaLiga,Levante UD,Portugal,Liga Portugal,Sporting CP,5.5,False
+Marquinhos,Right Winger,22,€5.50m,England,Premier League,Arsenal FC,Brazil,Série A,Cruzeiro Esporte Clube,3.0,False
+Bernardo,Centre-Back,30,€5.50m,Germany,2. Bundesliga,VfL Bochum,Germany,Bundesliga,TSG 1899 Hoffenheim,0,False
+Efraín Álvarez,Right Winger,23,€5.50m,Mexico,Without League,Club Tijuana,Mexico,Without League,Deportivo Guadalajara,0,False
+Andrej Ilic,Centre-Forward,25,€4.00m,France,Ligue 1,LOSC Lille,Germany,Bundesliga,1.FC Union Berlin,5.0,False
+Martín Satriano,Centre-Forward,24,€5.00m,Italy,Serie A,Inter Milan,France,Ligue 1,RC Lens,5.0,False
+Ignace Van der Brempt,Right-Back,23,€4.00m,Austria,Bundesliga,Red Bull Salzburg,Italy,Serie A,Como 1907,5.0,False
+Raul Florucz,Right Winger,24,€2.00m,Slovenia,Prva Liga,NK Olimpija Ljubljana,Belgium,Jupiler Pro League,Union Saint-Gilloise,5.0,False
+Maksim Osipenko,Centre-Back,31,€5.00m,Russia,Premier Liga,FC Rostov,Russia,Premier Liga,Dynamo Moscow,2.9,False
+Tim Oermann,Centre-Back,21,€5.00m,Germany,2. Bundesliga,VfL Bochum,Germany,Bundesliga,Bayer 04 Leverkusen,1.8,False
+Mahmoud Trezeguet,Left Winger,30,€5.00m,Türkiye,Süper Lig,Trabzonspor,Egypt,Premier League,Al Ahly FC,1.6,False
+Sorriso,Right Winger,24,€5.00m,Brazil,Série A,Red Bull Bragantino,Portugal,Liga Portugal,FC Famalicão,1.5,False
+Kevin Diks,Right-Back,28,€5.00m,Denmark,Superliga,FC Copenhagen,Germany,Bundesliga,Borussia Mönchengladbach,0,False
+Tim Oermann,Centre-Back,21,€5.00m,Germany,Bundesliga,Bayer 04 Leverkusen,Austria,Bundesliga,SK Sturm Graz,0,True
+Dejan Ljubicic,Defensive Midfield,27,€5.00m,Germany,Bundesliga,1.FC Köln,Croatia,SuperSport HNL,GNK Dinamo Zagreb,0,False
+Tim Lemperle,Centre-Forward,23,€5.00m,Germany,Bundesliga,1.FC Köln,Germany,Bundesliga,TSG 1899 Hoffenheim,0,False
+Pablo Sarabia,Right Winger,33,€5.00m,England,Premier League,Wolverhampton Wanderers,Qatar,Without League,Al-Arabi SC,0,False
+Dereck Kutesa,Left Winger,27,€5.00m,Switzerland,Super League,Servette FC,Greece,Super League 1,AEK Athens,0,False
+Pau López,Goalkeeper,30,€2.50m,France,Ligue 1,Olympique Marseille,Mexico,Without League,Deportivo Toluca,4.8,False
+Morgan Guilavogui,Right Winger,27,€4.00m,Germany,Bundesliga,FC St. Pauli,France,Ligue 1,RC Lens,4.5,False
+Miguel Rodríguez,Right Winger,22,€4.50m,Spain,LaLiga,Celta de Vigo,Netherlands,Eredivisie,FC Utrecht,1.25,False
+Berat Özdemir,Defensive Midfield,27,€4.20m,Saudi Arabia,Without League,Al-Ettifaq FC,Türkiye,Süper Lig,Basaksehir FK,0,False
+Woo-yeong Jeong,Attacking Midfield,25,€4.00m,Germany,Bundesliga,VfB Stuttgart,Germany,Bundesliga,1.FC Union Berlin,4.0,False
+Ilyas Ansah,Centre-Forward,20,€4.00m,Germany,2. Bundesliga,SC Paderborn 07,Germany,Bundesliga,1.FC Union Berlin,4.0,False
+Marco Pellegrino,Centre-Back,22,€4.00m,Italy,Serie A,AC Milan,Argentina,Torneo Apertura,CA Boca Juniors,3.5,False
+Philip Otele,Left Winger,26,€4.00m,United Arab Emirates,Without League,Al-Wahda FC,Switzerland,Super League,FC Basel 1893,3.0,False
+Morgan Guilavogui,Right Winger,27,€4.00m,France,Ligue 1,RC Lens,Germany,Bundesliga,FC St. Pauli,3.0,False
+Walter Mazzantti,Right Winger,28,€4.00m,Argentina,Torneo Apertura,CA Huracán,Argentina,Torneo Apertura,CA Independiente,3.0,False
+Fernando Beltrán,Central Midfield,27,€4.00m,Mexico,Without League,Deportivo Guadalajara,Mexico,Without League,Club León FC,2.6,False
+Agustín Palavecino,Central Midfield,28,€4.00m,Argentina,Torneo Apertura,CA River Plate,Mexico,Without League,Club Necaxa,2.56,False
+Jan Kuchta,Centre-Forward,28,€4.00m,Denmark,Superliga,FC Midtjylland,Czech Republic,Chance Liga,AC Sparta Prague,2.0,False
+Ludovic Ajorque,Centre-Forward,31,€4.00m,Germany,Bundesliga,1.FSV Mainz 05,France,Ligue 1,Stade Brestois 29,2.0,False
+Alexandru Mitriță,Left Winger,30,€4.00m,Romania,SuperLiga,CS Universitatea Craiova,China,Super League,Zhejiang FC,2.0,False
+Ilay Camara,Left Midfield,22,€4.00m,Belgium,Challenger Pro League,RWD Molenbeek,Belgium,Jupiler Pro League,Standard Liège,1.8,False
+Malcom Braida,Left Midfield,28,€4.00m,Argentina,Torneo Apertura,CA San Lorenzo de Almagro,Argentina,Torneo Apertura,CA Boca Juniors,1.57,False
+Zizo,Right Winger,29,€4.00m,Egypt,Premier League,Zamalek SC,Egypt,Premier League,Al Ahly FC,0,False
+Jordan Torunarigha,Centre-Back,27,€4.00m,Belgium,Jupiler Pro League,KAA Gent,Germany,Bundesliga,Hamburger SV,0,False
+Enea Mihaj,Centre-Back,26,€4.00m,Portugal,Liga Portugal,FC Famalicão,Türkiye,Süper Lig,Samsunspor,0,False
+Gjivai Zechiël,Defensive Midfield,21,€4.00m,Netherlands,Eredivisie,Feyenoord Rotterdam,Netherlands,Eredivisie,FC Utrecht,0,True
+Josué Casimir,Right Winger,23,€4.00m,France,Ligue 1,Le Havre AC,France,Ligue 1,AJ Auxerre,0,False
+Vitezslav Jaros,Goalkeeper,23,€4.00m,England,Premier League,Liverpool FC,Netherlands,Eredivisie,Ajax Amsterdam,0,True
+Diego León,Left-Back,18,€4.00m,Paraguay,Primera División Apertura,Club Cerro Porteño,England,Premier League,Manchester United,0,False
+Leonardo Lelo,Left-Back,25,€4.00m,Portugal,Liga Portugal,Casa Pia AC,Portugal,Liga Portugal,SC Braga,0,False
+Ibrahima Diallo,Defensive Midfield,26,€4.00m,Qatar,Without League,Al-Khor SC,Qatar,Without League,Al-Ahli SC,0,True
+Federico Bonini,Centre-Back,23,€4.00m,Italy,Serie B,Virtus Entella,Italy,Serie B,US Catanzaro,0,False
+João Pedro,Centre-Forward,32,€3.80m,United Arab Emirates,Without League,Al-Wasl FC,Qatar,Without League,Qatar SC,0,False
+Romelle Donovan,Right Winger,18,€800k,England,Championship,Birmingham City,England,Premier League,Brentford FC,3.6,False
+Joshua Quarshie,Centre-Back,20,€1.20m,Germany,Bundesliga,TSG 1899 Hoffenheim,England,Championship,Southampton FC,3.5,False
+Frans Krätzig,Left Midfield,22,€2.00m,Germany,Bundesliga,Bayern Munich,Austria,Bundesliga,Red Bull Salzburg,3.5,False
+Marcus Pedersen,Right Midfield,24,€3.00m,Netherlands,Eredivisie,Feyenoord Rotterdam,Italy,Serie A,Torino FC,3.5,False
+Gustavo Puerta,Central Midfield,21,€3.50m,Germany,Bundesliga,Bayer 04 Leverkusen,England,Championship,Hull City,3.5,False
+Juan Musso,Goalkeeper,31,€3.50m,Italy,Serie A,Atalanta BC,Spain,LaLiga,Atlético de Madrid,3.0,False
+Nick Olij,Goalkeeper,29,€3.50m,Netherlands,Eredivisie,Sparta Rotterdam,Netherlands,Eredivisie,PSV Eindhoven,3.0,False
+Jonatan Braut Brunes,Centre-Forward,24,€3.50m,Belgium,Jupiler Pro League,Oud-Heverlee Leuven,Poland,Ekstraklasa,Raków Częstochowa,2.0,False
+Jacob Rasmussen,Centre-Back,28,€3.50m,Denmark,Superliga,Bröndby IF,Austria,Bundesliga,Red Bull Salzburg,1.5,False
+Nikolay Komlichenko,Centre-Forward,30,€3.50m,Russia,Premier Liga,FC Rostov,Russia,Premier Liga,Lokomotiv Moscow,1.5,False
+Mats Köhlert,Left-Back,27,€3.50m,Netherlands,Eredivisie,SC Heerenveen,Denmark,Superliga,Bröndby IF,0,False
+Nicolae Stanciu,Attacking Midfield,32,€3.50m,Saudi Arabia,Without League,Damac FC,Italy,Serie A,Genoa CFC,0,False
+Sorba Thomas,Right Winger,26,€3.50m,England,League One,Huddersfield Town,England,Championship,Stoke City,0,False
+Harry Darling,Centre-Back,25,€3.50m,Wales,Championship,Swansea City,England,Championship,Norwich City,0,False
+Youssoupha Sanyang,Left Winger,19,€2.50m,Sweden,Allsvenskan,Östers IF,Czech Republic,Chance Liga,SK Slavia Prague,3.0,False
+Gonzalo Villar,Central Midfield,27,€2.00m,Spain,LaLiga2,Granada CF,Croatia,SuperSport HNL,GNK Dinamo Zagreb,3.0,False
+Daan Heymans,Attacking Midfield,26,€3.00m,Belgium,Jupiler Pro League,Royal Charleroi SC,Belgium,Jupiler Pro League,KRC Genk,3.0,False
+Nicolai Remberg,Central Midfield,25,€3.00m,Germany,2. Bundesliga,Holstein Kiel,Germany,Bundesliga,Hamburger SV,2.4,False
+Mateo Chávez,Left-Back,21,€3.00m,Mexico,Without League,Deportivo Guadalajara,Netherlands,Eredivisie,AZ Alkmaar,2.0,False
+Erick Marcus,Right Winger,21,€3.00m,Brazil,Série A,Clube de Regatas Vasco da Gama,Bulgaria,efbet Liga,Ludogorets Razgrad,1.25,False
+Gabriel Vidovic,Second Striker,21,€3.00m,Germany,Bundesliga,Bayern Munich,Croatia,SuperSport HNL,GNK Dinamo Zagreb,1.2,False
+Nikolai Hopland,Centre-Back,20,€3.00m,Norway,OBOS-ligaen,Aalesunds FK,Netherlands,Eredivisie,SC Heerenveen,500k,False
+Oliver Burke,Centre-Forward,28,€3.00m,Germany,Bundesliga,SV Werder Bremen,Germany,Bundesliga,1.FC Union Berlin,0,False
+Bruno Petkovic,Centre-Forward,30,€3.00m,Croatia,SuperSport HNL,GNK Dinamo Zagreb,Türkiye,Süper Lig,Kocaelispor,0,False
+Milos Veljkovic,Centre-Back,29,€3.00m,Germany,Bundesliga,SV Werder Bremen,Serbia,Super liga Srbije,Red Star Belgrade,0,False
+Robert Wagner,Central Midfield,21,€3.00m,Germany,Bundesliga,SC Freiburg,Germany,2. Bundesliga,Holstein Kiel,0,True
+Valentin Rosier,Right-Back,28,€3.00m,Spain,LaLiga2,CD Leganés,Spain,LaLiga,CA Osasuna,0,False
+Phil Neumann,Centre-Back,27,€3.00m,Germany,2. Bundesliga,Hannover 96,England,Championship,Birmingham City,0,False
+Lukas Nmecha,Centre-Forward,26,€3.00m,Germany,Bundesliga,VfL Wolfsburg,England,Premier League,Leeds United,0,False
+Richard Ledezma,Right-Back,24,€3.00m,Netherlands,Eredivisie,PSV Eindhoven,Mexico,Without League,Deportivo Guadalajara,0,False
+Fallou Fall,Centre-Back,21,€2.80m,France,Ligue 2,Stade Reims,Norway,Eliteserien,Fredrikstad FK,500k,False
+Jacob Wright,Defensive Midfield,19,€800k,England,Without League,Manchester City U21,England,Championship,Norwich City,2.7,False
+Mohamed Al-Thani,Right-Back,28,€900k,Saudi Arabia,Without League,Al-Hazem SC,Saudi Arabia,Without League,Al-Qadsiah FC,2.53,False
+Andrés Ferrari,Centre-Forward,22,€1.50m,Spain,LaLiga,Villarreal CF,Belgium,Jupiler Pro League,Sint-Truidense VV,2.5,False
+Irvin Cardona,Centre-Forward,27,€2.50m,Germany,Bundesliga,FC Augsburg,France,Ligue 2,AS Saint-Étienne,2.5,False
+Gennaro Tutino,Centre-Forward,28,€2.20m,Italy,Without League,Cosenza Calcio,Italy,Without League,UC Sampdoria,2.5,False
+Álex Collado,Right Winger,26,€2.20m,Spain,LaLiga,Real Betis Balompié,Qatar,Without League,Al-Shamal SC,2.5,False
+Biro,Right Winger,21,€2.50m,Brazil,Série A,Sport Club Corinthians Paulista,United Arab Emirates,Without League,Sharjah FC,2.19,False
+Filip Rózga,Attacking Midfield,18,€2.50m,Poland,Ekstraklasa,Cracovia,Austria,Bundesliga,SK Sturm Graz,2.0,False
+Georgios Kyriakopoulos,Left Midfield,29,€2.50m,Italy,Serie B,AC Monza,Greece,Super League 1,Panathinaikos FC,2.0,False
+Antoine Bernede,Central Midfield,26,€2.50m,Switzerland,Super League,FC Lausanne-Sport,Italy,Serie A,Hellas Verona,2.0,False
+Cheikh Niasse,Defensive Midfield,25,€2.50m,Switzerland,Super League,BSC Young Boys,Italy,Serie A,Hellas Verona,2.0,False
+Fali Candé,Centre-Back,27,€2.50m,France,Ligue 1,FC Metz,Italy,Serie B,Venezia FC,1.9,False
+Ahmed Touba,Centre-Back,27,€2.50m,Türkiye,Süper Lig,Basaksehir FK,Greece,Super League 1,Panathinaikos FC,1.0,False
+Dennis Eckert Ayensa,Centre-Forward,28,€2.50m,Belgium,Jupiler Pro League,Union Saint-Gilloise,Belgium,Jupiler Pro League,Standard Liège,1.0,False
+Lawrence Agyekum,Central Midfield,21,€2.50m,Austria,Bundesliga,Red Bull Salzburg,Belgium,Jupiler Pro League,Cercle Brugge ,800k,False
+Dennis Seimen,Goalkeeper,19,€2.50m,Germany,Bundesliga,VfB Stuttgart,Germany,2. Bundesliga,SC Paderborn 07,250k,True
+Dani de Wit,Attacking Midfield,27,€2.50m,Germany,2. Bundesliga,VfL Bochum,Netherlands,Eredivisie,FC Utrecht,0,False
+Taylor Gardner-Hickman,Right-Back,23,€2.50m,England,Championship,Bristol City,England,Championship,Birmingham City,0,False
+Jessy Deminguet,Central Midfield,27,€2.50m,France,Ligue 1,RC Strasbourg Alsace,France,Ligue 1,FC Metz,0,False
+Daniel Iversen,Goalkeeper,27,€2.50m,England,Championship,Leicester City,England,Championship,Preston North End,0,False
+Rémy Cabella,Attacking Midfield,35,€2.50m,France,Ligue 1,LOSC Lille,Greece,Super League 1,Olympiacos Piraeus,0,False
+Ionuț Radu,Goalkeeper,28,€2.50m,Italy,Serie B,Venezia FC,Spain,LaLiga,Celta de Vigo,0,False
+Isa Sakamoto,Centre-Forward,21,€2.50m,Japan,J1 League,Gamba Osaka,Belgium,Jupiler Pro League,KVC Westerlo,0,False
+Dani Raba,Right Winger,29,€2.50m,Spain,LaLiga2,CD Leganés,Spain,LaLiga,Valencia CF,0,False
+Daam Foulon,Left-Back,26,€2.50m,Belgium,Jupiler Pro League,KV Mechelen,Belgium,Jupiler Pro League,Royal Antwerp FC,0,False
+Thibault De Smet,Left-Back,27,€2.50m,France,Ligue 2,Stade Reims,France,Ligue 1,Paris FC,0,False
+Hugo,Left-Back,23,€2.50m,Brazil,Série A,Botafogo de Futebol e Regatas,United Arab Emirates,Without League,Al-Wasl FC,0,False
+Jubal,Centre-Back,31,€2.50m,France,Ligue 1,AJ Auxerre,Russia,Premier Liga,FC Krasnodar,0,False
+Javairô Dilrosun,Left Winger,26,€2.50m,Mexico,Liga MX Apertura,CF América,United States,MLS,Los Angeles FC,0,True
+Jassem Gaber,Centre-Back,23,€700k,Qatar,Without League,Al-Arabi SC,Qatar,Without League,Al-Rayyan SC,2.39,False
+Mike Eerdhuijzen,Centre-Back,24,€2.30m,Netherlands,Eredivisie,Sparta Rotterdam,Netherlands,Eredivisie,FC Utrecht,1.3,False
+Víctor Guzmán,Attacking Midfield,30,€2.30m,Mexico,Without League,Deportivo Guadalajara,Mexico,Without League,CF Pachuca,0,True
+Stiven Shpendi,Centre-Forward,22,€1.50m,Italy,Serie B,Cesena FC,Italy,Serie B,FC Empoli,2.2,False
+José Luis Rodríguez,Left Winger,27,€2.00m,Serbia,Super liga Srbije,Red Star Belgrade,Mexico,Without League,FC Juárez,2.2,False
+Maurice Malone,Centre-Forward,24,€2.20m,Switzerland,Super League,FC Basel 1893,Austria,Bundesliga,Austria Vienna,1.2,False
+Hamdy Fathy,Central Midfield,30,€2.20m,Qatar,Stars League,Al-Wakrah SC,Egypt,Premier League,Al Ahly FC,0,True
+Alisson Santos,Right Winger,22,€1.50m,Brazil,Série A,Esporte Clube Vitória,Portugal,Liga Portugal,Sporting CP,2.1,False
+João Mário,Left Winger,32,€2.10m,Portugal,Liga Portugal,SL Benfica,Türkiye,Süper Lig,Besiktas JK,2.0,False
+Derry Scherhant,Left Winger,22,€2.00m,Germany,2. Bundesliga,Hertha BSC,Germany,Bundesliga,SC Freiburg,2.0,False
+Axel Kayombo,Left Winger,19,€2.00m,Switzerland,Super League,FC Basel 1893,Austria,Bundesliga,SK Sturm Graz,2.0,False
+Jakob Napoleon Romsaas,Centre-Forward,21,€1.50m,Norway,Eliteserien,Tromsø IL,Belgium,Jupiler Pro League,Royal Charleroi SC,2.0,False
+Santiago Eneme,Attacking Midfield,24,€1.50m,Czech Republic,Chance Liga,FC Slovan Liberec,Czech Republic,Chance Liga,AC Sparta Prague,2.0,False
+Kaio,Centre-Back,29,€1.80m,Russia,Premier Liga,FC Krasnodar,Brazil,Série A,Botafogo de Futebol e Regatas,2.0,False
+Mahmoud Jaber,Central Midfield,25,€2.00m,Israel,Ligat ha'Al,Maccabi Haifa,France,Ligue 2,AS Saint-Étienne,2.0,False
+Nikolas Ioannou,Left-Back,29,€750k,Italy,Serie A,Como 1907,Italy,Without League,UC Sampdoria,2.0,False
+Alessandro Bellemo,Central Midfield,29,€800k,Italy,Serie A,Como 1907,Italy,Without League,UC Sampdoria,2.0,False
+Do-young Yoon,Right Winger,18,€800k,"Korea, South",K League 1,Daejeon Hana Citizen,England,Premier League,Brighton & Hove Albion,2.0,False
+Youssouf Sabaly,Right-Back,32,€1.80m,Spain,LaLiga,Real Betis Balompié,Qatar,Without League,Al-Duhail SC,2.0,False
+Louis Patris,Right-Back,24,€2.00m,Belgium,Jupiler Pro League,RSC Anderlecht,Belgium,Jupiler Pro League,Sint-Truidense VV,1.75,False
+Leonardo Godoy,Right-Back,30,€2.00m,Brazil,Without League,Club Athletico Paranaense,Argentina,Torneo Apertura,CA Independiente,1.65,False
+Oleksandr Martynyuk,Left-Back,23,€2.00m,Ukraine,Premier Liga,FC Oleksandriya,Ukraine,Premier Liga,Metalist 1925 Kharkiv,1.5,False
+Maxime Bernauer,Centre-Back,27,€2.00m,Croatia,SuperSport HNL,GNK Dinamo Zagreb,France,Ligue 2,AS Saint-Étienne,1.2,False
+Stefan Kovac,Central Midfield,26,€2.00m,Serbia,Super liga Srbije,FK Partizan Belgrade,Russia,Premier Liga,Baltika Kaliningrad,1.2,False
+Juanmi,Left Winger,32,€2.00m,Spain,LaLiga,Real Betis Balompié,Spain,LaLiga,Getafe CF,1.2,False
+Axel Tape,Centre-Back,17,€2.00m,France,Without League,Paris Saint-Germain Espoirs,Germany,Bundesliga,Bayer 04 Leverkusen,0,False
+Arkadiusz Pyrka,Right-Back,22,€2.00m,Poland,Ekstraklasa,Piast Gliwice,Germany,Bundesliga,FC St. Pauli,0,False
+Benjamin Källman,Centre-Forward,27,€2.00m,Poland,Ekstraklasa,Cracovia,Germany,2. Bundesliga,Hannover 96,0,False
+Leandro Morgalla,Right-Back,20,€2.00m,Austria,Bundesliga,Red Bull Salzburg,Germany,2. Bundesliga,VfL Bochum,0,True
+Aleksandar Jovanovic,Goalkeeper,32,€2.00m,Serbia,Super liga Srbije,FK Partizan Belgrade,Türkiye,Süper Lig,Kocaelispor,0,False
+Davy van den Berg,Central Midfield,25,€2.00m,Netherlands,Eredivisie,PEC Zwolle,Netherlands,Eredivisie,FC Utrecht,0,False
+Alfons Sampsted,Right-Back,27,€2.00m,Netherlands,Eredivisie,Twente Enschede FC,England,Championship,Birmingham City,0,False
+Antoñito Cordero,Left Winger,18,€2.00m,Spain,LaLiga2,Málaga CF,England,Premier League,Newcastle United,0,False
+Nicolás López,Centre-Forward,31,€2.00m,Mexico,Without League,Club León FC,Uruguay,Liga AUF Intermedio,Club Nacional,0,False
+Adrian Zeljkovic,Defensive Midfield,22,€2.00m,Slovakia,Nike Liga,Spartak Trnava,Czech Republic,Chance Liga,FC Viktoria Plzen,0,False
+Lukas Kalvach,Defensive Midfield,29,€2.00m,Czech Republic,Chance Liga,FC Viktoria Plzen,Qatar,Without League,Qatar SC,0,False
+Dylan Mbayo,Right Winger,23,€2.00m,Belgium,Challenger Pro League,KV Kortrijk,Netherlands,Eredivisie,PEC Zwolle,0,False
+Ángel Di María,Right Winger,37,€2.00m,Portugal,Liga Portugal,SL Benfica,Argentina,Torneo Apertura,CA Rosario Central,0,False
+Cameron Burgess,Centre-Back,29,€2.00m,England,Championship,Ipswich Town,Wales,Championship,Swansea City,0,False
+Renato Tapia,Defensive Midfield,29,€2.00m,Spain,LaLiga2,CD Leganés,United Arab Emirates,Without League,Al-Wasl FC,0,False
+Jonas Therkelsen,Attacking Midfield,22,€1.80m,Norway,Eliteserien,Strømsgodset IF,Germany,2. Bundesliga,Holstein Kiel,1.9,False
+Abdulmalik Al-Jaber,Central Midfield,21,€700k,Bosnia-Herzegovina,Without League,FK Zeljeznicar Sarajevo,Saudi Arabia,Without League,Al-Nassr FC,1.8,False
+Thomas van den Belt,Defensive Midfield,24,€1.80m,Netherlands,Eredivisie,Feyenoord Rotterdam,Netherlands,Eredivisie,Twente Enschede FC,1.25,False
+Derry Murkin,Left-Back,25,€1.80m,Germany,2. Bundesliga,FC Schalke 04,Netherlands,Eredivisie,FC Utrecht,1.2,False
+Ryan Hardie,Centre-Forward,28,€1.80m,England,League One,Plymouth Argyle,Wales,Championship,Wrexham AFC,825k,False
+Aurélien Scheidler,Centre-Forward,27,€1.80m,Italy,Serie B,SSC Bari,Belgium,Jupiler Pro League,FCV Dender EH,800k,False
+Lyall Cameron,Attacking Midfield,22,€1.80m,Scotland,Premiership,Dundee FC,Scotland,Premiership,Rangers FC,0,False
+Sævar Atli Magnússon,Right Winger,25,€1.80m,Denmark,1.Division,Lyngby Boldklub,Norway,Eliteserien,SK Brann,0,False
+Borislav Tsonev,Attacking Midfield,30,€1.80m,Bulgaria,efbet Liga,Arda Kardzhali,Bulgaria,efbet Liga,CSKA 1948,0,False
+Ármin Pécsi,Goalkeeper,20,€800k,Hungary,NB I.,Puskás Akadémia FC,England,Premier League,Liverpool FC,1.78,False
+Mihajlo Banjac,Central Midfield,25,€1.70m,Russia,Premier Liga,FC Krasnodar,Serbia,Super liga Srbije,FK TSC Backa Topola,600k,False
+Marius Wörl,Central Midfield,21,€1.70m,Germany,2. Bundesliga,Arminia Bielefeld,Germany,2. Bundesliga,Hannover 96,500k,False
+Marius Wörl,Central Midfield,21,€1.70m,Germany,2. Bundesliga,Hannover 96,Germany,2. Bundesliga,Arminia Bielefeld,300k,False
+Mario Sauer,Attacking Midfield,21,€1.70m,Slovakia,Nike Liga,MSK Zilina,France,Ligue 1,FC Toulouse,0,False
+Kasper Davidsen,Defensive Midfield,20,€1.30m,Denmark,1.Division,Aalborg BK,Germany,2. Bundesliga,Holstein Kiel,1.6,False
+Mohamed Ali Ben Romdhane,Central Midfield,25,€1.50m,Hungary,NB I.,Ferencvárosi TC,Egypt,Premier League,Al Ahly FC,1.58,False
+Marcel Ratnik,Centre-Back,21,€1.50m,Slovenia,Prva Liga,NK Olimpija Ljubljana,United Arab Emirates,UAE Pro League,Al-Ain FC,2.0,False
+Mariusz Fornalczyk,Attacking Midfield,22,€1.50m,Poland,Ekstraklasa,Korona Kielce,Poland,Ekstraklasa,Widzew Lodz,1.5,False
+Dominik Hollý,Central Midfield,21,€1.00m,Czech Republic,Chance Liga,FK Jablonec,Czech Republic,Chance Liga,AC Sparta Prague,1.5,False
+Miha Matjasec,Central Midfield,16,-,Slovenia,Without League,NK Domzale U17,Austria,Bundesliga,Red Bull Salzburg,1.5,False
+Nikola Sekulov,Attacking Midfield,23,€500k,Italy,Without League,Juventus Next Gen,Italy,Without League,UC Sampdoria,1.5,False
+Grigoris Kastanos,Attacking Midfield,27,€1.50m,Italy,Without League,US Salernitana 1919,Italy,Serie A,Hellas Verona,1.2,False
+Ilias Sebaoui,Left Winger,23,€1.50m,Netherlands,Eredivisie,Feyenoord Rotterdam,Belgium,Jupiler Pro League,Sint-Truidense VV,1.0,False
+Dimitar Mitrovski,Right Winger,26,€1.50m,Croatia,SuperSport HNL,NK Varazdin,Slovenia,Prva Liga,NK Olimpija Ljubljana,1.0,False
+Mateusz Kowalczyk,Defensive Midfield,21,€1.50m,Denmark,Superliga,Bröndby IF,Poland,Ekstraklasa,GKS Katowice,1.0,False
+Dennis Politic,Left Winger,25,€1.50m,Romania,SuperLiga,FC Dinamo 1948,Romania,SuperLiga,FCSB,970k,False
+Benedikt Pichler,Centre-Forward,27,€1.50m,Germany,2. Bundesliga,Holstein Kiel,Germany,2. Bundesliga,Hannover 96,750k,False
+Simon Graves,Centre-Back,26,€1.50m,Italy,Serie B,Palermo FC,Netherlands,Eredivisie,PEC Zwolle,600k,False
+Kasper Jørgensen,Right-Back,25,€1.50m,Denmark,1.Division,Aalborg BK,Austria,Bundesliga,LASK,350k,False
+Stanislav Ivanov,Right Winger,26,€1.50m,Bulgaria,efbet Liga,Arda Kardzhali,Bulgaria,efbet Liga,Ludogorets Razgrad,350k,False
+Timo Becker,Centre-Back,28,€1.50m,Germany,2. Bundesliga,Holstein Kiel,Germany,2. Bundesliga,FC Schalke 04,0,False
+Colin Kleine-Bekel,Centre-Back,22,€1.50m,Germany,2. Bundesliga,Holstein Kiel,Germany,2. Bundesliga,VfL Bochum,0,False
+Jonathan Levi,Right Winger,29,€1.50m,Hungary,NB I.,Puskás Akadémia FC,Hungary,NB I.,Ferencvárosi TC,0,False
+Michal Sacek,Right-Back,28,€1.50m,Poland,Ekstraklasa,Jagiellonia Bialystok,Poland,Ekstraklasa,Górnik Zabrze,0,False
+Anders Klynge,Central Midfield,24,€1.50m,Denmark,Superliga,Silkeborg IF,Norway,Eliteserien,FK Bodø/Glimt,0,False
+Miguel Rubio,Centre-Back,27,€1.50m,Spain,LaLiga2,Granada CF,Spain,LaLiga,RCD Espanyol Barcelona,0,False
+Marc Bola,Left-Back,27,€1.50m,Türkiye,Süper Lig,Samsunspor,England,Championship,Watford FC,0,False
+Lisandro Magallán,Centre-Back,31,€1.50m,Mexico,Without League,UNAM Pumas,Argentina,Torneo Apertura,CA Vélez Sarsfield,0,False
+Suso,Right Winger,31,€1.50m,Spain,LaLiga,Sevilla FC,Spain,LaLiga2,Cádiz CF,0,False
+Marcel Halstenberg,Centre-Back,33,€1.50m,Germany,2. Bundesliga,Hannover 96,Germany,Without League,SV Germania Grasdorf,0,False
+Léo Realpe,Centre-Back,24,€1.50m,Brazil,Série A,Red Bull Bragantino,Portugal,Liga Portugal,FC Famalicão,0,False
+Viktor Popov,Right-Back,25,€1.50m,Bulgaria,efbet Liga,Cherno More Varna,Poland,Ekstraklasa,Korona Kielce,0,False
+Alexander Scholz,Centre-Back,32,€1.50m,Qatar,Stars League,Al-Wakrah SC,Japan,J1 League,FC Tokyo,0,False
+Karlo Muhar,Defensive Midfield,29,€1.50m,Saudi Arabia,Without League,Al-Orobah FC,Romania,SuperLiga,CFR Cluj,0,False
+Amadou Dante,Left-Back,24,€1.50m,Austria,Bundesliga,SK Sturm Graz,Portugal,Liga Portugal,FC Arouca,0,False
+Boris Popović,Centre-Back,25,€1.50m,Belgium,Jupiler Pro League,Cercle Brugge ,Portugal,Liga Portugal,FC Arouca,0,False
+Roman Kvet,Central Midfield,27,€1.50m,Czech Republic,Chance Liga,FC Viktoria Plzen,Belgium,Jupiler Pro League,FCV Dender EH,0,False
+Brahian Palacios,Right Winger,22,€1.50m,Brazil,Série A,Clube Atlético Mineiro,United Arab Emirates,Without League,Al-Wasl FC,0,False
+Loïs Diony,Centre-Forward,32,€1.50m,France,Ligue 1,Angers SCO,Türkiye,Without League,Bandirmaspor,0,False
+Kevin Viveros,Centre-Forward,25,€1.40m,Bosnia-Herzegovina,Without League,FK Sarajevo,Colombia,Liga Dimayor I,Atlético Nacional,1.21,False
+Wendel,Centre-Forward,24,€1.20m,Portugal,Liga Portugal 2,FC Porto B,Portugal,Liga Portugal,CD Santa Clara,1.35,False
+Adnane Abid,Right Winger,21,€800k,Belgium,Challenger Pro League,Patro Eisden Maasmechelen,Belgium,Jupiler Pro League,Standard Liège,1.3,False
+Takuma Ominami,Centre-Back,27,€1.30m,Japan,J1 League,Kawasaki Frontale,Belgium,Jupiler Pro League,Oud-Heverlee Leuven,600k,False
+Julian Hettwer,Left Winger,22,€1.30m,Germany,Regionalliga West,Borussia Dortmund II,Germany,2. Bundesliga,Fortuna Düsseldorf,0,False
+Raul Opruț,Left-Back,27,€1.30m,Belgium,Challenger Pro League,KV Kortrijk,Romania,SuperLiga,FC Dinamo 1948,0,False
+Sebastián Ferreira,Centre-Forward,27,€1.30m,United States,MLS,Houston Dynamo FC,Paraguay,Primera División Apertura,Olimpia Asunción,0,False
+Dimitrios Kaloskamis,Attacking Midfield,20,€300k,Greece,Super League 1,Atromitos Athens,Greece,Super League 1,AEK Athens,1.2,False
+Álex Forés,Centre-Forward,24,€600k,Spain,Without League,Villarreal CF B,Spain,LaLiga,Levante UD,1.2,False
+Ivan Prtajin,Centre-Forward,29,€1.20m,Germany,Bundesliga,1.FC Union Berlin,Germany,2. Bundesliga,1.FC Kaiserslautern,1.0,False
+Bruninho,Attacking Midfield,25,€1.20m,Brazil,Série A,Clube Atlético Mineiro,Ukraine,Premier Liga,Karpaty Lviv,800k,False
+Samuel Akere,Right Winger,21,€1.20m,Bulgaria,efbet Liga,Botev Plovdiv,Poland,Ekstraklasa,Widzew Lodz,750k,False
+Logi Tómasson,Left-Back,24,€1.20m,Norway,Eliteserien,Strømsgodset IF,Türkiye,Süper Lig,Samsunspor,700k,False
+Erick Nunes,Right Midfield,21,€1.20m,Brazil,CBF Brasileiro U20,Fluminense FC U20,Belgium,Jupiler Pro League,Cercle Brugge ,500k,False
+Roberto Fernández,Left-Back,25,€1.20m,Bolivia,División Profesional,Bolívar La Paz,Russia,Premier Liga,Akron Togliatti,500k,False
+Kenneth Schmidt,Centre-Back,23,€1.20m,Germany,Bundesliga,SC Freiburg,Germany,2. Bundesliga,Fortuna Düsseldorf,400k,False
+Paul Seguin,Central Midfield,30,€1.20m,Germany,2. Bundesliga,FC Schalke 04,Germany,2. Bundesliga,Hertha BSC,400k,False
+Fabian Kunze,Defensive Midfield,27,€1.20m,Germany,2. Bundesliga,Hannover 96,Germany,2. Bundesliga,1.FC Kaiserslautern,0,False
+Cadu,Right Midfield,27,€1.20m,Czech Republic,Chance Liga,FC Viktoria Plzen,Hungary,NB I.,Ferencvárosi TC,0,False
+Stefan Lainer,Right-Back,32,€1.20m,Germany,Bundesliga,Borussia Mönchengladbach,Austria,Bundesliga,Red Bull Salzburg,0,False
+Mykola Kukharevych,Centre-Forward,24,€1.20m,Wales,Championship,Swansea City,Slovakia,Nike Liga,Slovan Bratislava,0,False
+Jamie McGrath,Attacking Midfield,28,€1.20m,Scotland,Premiership,Aberdeen FC,Scotland,Premiership,Hibernian FC,0,False
+Denis Visinsky,Attacking Midfield,22,€1.20m,Czech Republic,Chance Liga,FC Slovan Liberec,Czech Republic,Chance Liga,FC Viktoria Plzen,0,False
+Julien Laporte,Centre-Back,31,€1.20m,France,Ligue 1,FC Lorient,France,Ligue 2,Montpellier HSC,0,False
+Karamoko Dembélé,Attacking Midfield,22,€1.20m,France,Ligue 1,Stade Brestois 29,England,Championship,Queens Park Rangers,0,False
+Ryan Ledson,Central Midfield,27,€1.20m,England,Championship,Preston North End,England,League One,Huddersfield Town,0,False
+Rubén Peña,Right-Back,33,€1.20m,Spain,LaLiga,CA Osasuna,Spain,LaLiga2,CD Leganés,0,False
+Ryoya Ogawa,Left-Back,28,€1.20m,Belgium,Jupiler Pro League,Sint-Truidense VV,Japan,J1 League,Kashima Antlers,0,False
+Jonathan Panzo,Centre-Back,24,€1.20m,England,Premier League,Nottingham Forest,Portugal,Liga Portugal,Rio Ave FC,0,False
+Miguel Parrales,Centre-Forward,29,€1.20m,Ecuador,Liga Pro Serie B,Guayaquil City FC,Ecuador,LigaPro Serie A,Barcelona SC Guayaquil,0,False
+Abdulla Idrees,Left-Back,25,€1.20m,United Arab Emirates,Without League,Al-Jazira Club,United Arab Emirates,Without League,Al-Nasr SC (UAE),0,False
+Uros Sremcevic,Centre-Forward,19,€1.20m,Serbia,Super liga Srbije,Red Star Belgrade,Serbia,Super liga Srbije,FK Mladost Lucani,0,True
+Radu Boboc,Right-Back,26,€1.20m,Romania,SuperLiga,FC Universitatea Cluj,Poland,Ekstraklasa,Bruk-Bet Termalica Nieciecza,0,False
+Pierre Kunde,Central Midfield,29,€1.20m,United Arab Emirates,Without League,Dibba Al-Hisn SC,United Arab Emirates,Without League,Khor Fakkan SSC,0,False
+Noam Ben Harush,Right-Back,20,€1.00m,Israel,Ligat ha'Al,Hapoel Haifa,Israel,Ligat ha'Al,Maccabi Tel Aviv,1.0,False
+Mahmoud Bentayg,Left-Back,25,€500k,France,Ligue 2,AS Saint-Étienne,Egypt,Without League,Zamalek SC,1.0,False
+Luka Gugeshashvili,Goalkeeper,26,€900k,Greece,Super League 1,Panserraikos,Greece,Super League 1,PAOK Thessaloniki,1.0,False
+Raúl Sánchez,Left Winger,27,€700k,Spain,LaLiga2,CD Castellón,Mexico,Without League,Club Necaxa,1.0,False
+Dylan Nandín,Centre-Forward,23,€800k,Uruguay,Liga AUF Intermedio,Racing Club de Montevideo,Portugal,Liga Portugal,FC Arouca,1.0,False
+Alessandro Pietrelli,Right Winger,22,€200k,Italy,Without League,Feralpisalò,Italy,Without League,Juventus Next Gen,1.0,False
+Matija Mitrovic,Central Midfield,20,€1.00m,Serbia,Super liga Srbije,Zeleznicar Pancevo,Portugal,Liga Portugal,Vitória Guimarães SC,900k,False
+Tomas Ladra,Second Striker,28,€1.00m,Czech Republic,Chance Liga,FK Mlada Boleslav,Czech Republic,Chance Liga,FC Viktoria Plzen,800k,False
+Bong-soo Kim,Central Midfield,25,€1.00m,"Korea, South",K League 1,Jeju SK,"Korea, South",K League 1,Daejeon Hana Citizen,638k,False
+Jacopo Bacci,Central Midfield,20,€1.00m,Italy,Serie B,Calcio Padova,Italy,Serie B,FC Empoli,250k,False
+Simon Becher,Centre-Forward,25,€1.00m,Denmark,1.Division,AC Horsens,United States,MLS,St. Louis CITY SC,220k,False
+Julius Szöke,Defensive Midfield,29,€1.00m,Slovakia,Nike Liga,Slovan Bratislava,Cyprus,Cyprus League,AEL Limassol,180k,False
+Simon Asta,Right-Back,24,€1.00m,Germany,2. Bundesliga,SpVgg Greuther Fürth,Germany,2. Bundesliga,1.FC Kaiserslautern,0,False
+Leon Jensen,Central Midfield,28,€1.00m,Germany,2. Bundesliga,Karlsruher SC,Germany,2. Bundesliga,Hertha BSC,0,False
+Anthony Jung,Centre-Back,33,€1.00m,Germany,Bundesliga,SV Werder Bremen,Germany,Bundesliga,SC Freiburg,0,False
+Mathias Olesen,Central Midfield,24,€1.00m,Germany,Bundesliga,1.FC Köln,Germany,2. Bundesliga,SpVgg Greuther Fürth,0,False
+Rildo,Right Winger,25,€1.00m,Portugal,Liga Portugal,CD Santa Clara,Bulgaria,efbet Liga,Levski Sofia,0,True
+Stanislav Shopov,Attacking Midfield,23,€1.00m,Bulgaria,efbet Liga,CSKA-Sofia,Croatia,SuperSport HNL,NK Osijek,0,False
+Tommy St. Jago,Centre-Back,25,€1.00m,Netherlands,Keuken Kampioen Divisie,Willem II Tilburg,Belgium,Jupiler Pro League,KV Mechelen,0,False
+Robin Olsen,Goalkeeper,35,€1.00m,England,Premier League,Aston Villa,Sweden,Allsvenskan,Malmö FF,0,False
+Yu Hirakawa,Right Winger,24,€1.00m,Japan,J1 League,Machida Zelvia,England,Championship,Bristol City,0,False
+Craig Goodwin,Left Winger,33,€1.00m,Saudi Arabia,Without League,Al-Wehda FC,Australia,A-League Men,Adelaide United,0,False
+Dion Cools,Right-Back,28,€1.00m,Thailand,Thai League,Buriram United,Japan,J1 League,Cerezo Osaka,0,False
+Lelê,Centre-Forward,27,€1.00m,Brazil,Série A,Fluminense Football Club,Japan,J1 League,Nagoya Grampus,0,True
+Aref Aghasi,Centre-Back,28,€1.00m,Iran,Persian Gulf Pro League,Tractor FC,Iran,Persian Gulf Pro League,Esteghlal FC,0,False
+Sean Roughan,Centre-Back,22,€1.00m,England,League One,Lincoln City,England,League One,Huddersfield Town,0,False
+Mimeirhel Benita,Right-Back,21,€1.00m,Netherlands,Eredivisie,Feyenoord Rotterdam,Netherlands,Eredivisie,Heracles Almelo,0,False
+Badr Benoun,Centre-Back,31,€1.00m,Qatar,Without League,Qatar SC,Morocco,Botola Pro Inwi,Raja Club Athletic,0,False
+Rui Patrício,Goalkeeper,37,€1.00m,Italy,Serie A,Atalanta BC,United Arab Emirates,UAE Pro League,Al-Ain FC,0,False
+Jack MacKenzie,Left-Back,25,€1.00m,Scotland,Premiership,Aberdeen FC,England,League One,Plymouth Argyle,0,False
+Sergio Ortuño,Central Midfield,26,€1.00m,Spain,Without League,CD Eldense,Spain,LaLiga2,Cádiz CF,0,False
+Martín Benítez,Attacking Midfield,30,€1.00m,Brazil,Série B,América Futebol Clube (MG),Brazil,Série B,Goiás EC,0,False
+Jordan Houghton,Defensive Midfield,29,€1.00m,England,League One,Plymouth Argyle,England,League One,Stevenage FC,0,False
+Zayed Sultan,Right-Back,24,€1.00m,United Arab Emirates,Without League,Al-Jazira Club,United Arab Emirates,Without League,Al-Nasr SC (UAE),0,False
+Luis Gabriel Rey,Centre-Back,22,€1.00m,Mexico,Without League,Deportivo Guadalajara,Mexico,Without League,Puebla FC,0,True
+Akram Tawfik,Central Midfield,27,€1.00m,Egypt,Without League,Al Ahly FC,Qatar,Without League,Al-Shamal SC,0,False
+Sékou Gassama,Attacking Midfield,24,€1.00m,United Arab Emirates,Without League,Al-Ain FC,United Arab Emirates,Without League,Kalba FC,0,True
+Ali Lajami,Centre-Back,29,€900k,Saudi Arabia,Saudi Pro League,Al-Nassr FC,Saudi Arabia,Saudi Pro League,Al-Hilal SFC,941k,False
+Bence Ötvös,Defensive Midfield,27,€700k,Hungary,NB I.,Paksi FC,Hungary,NB I.,Ferencvárosi TC,900k,False
+Drilon Hazrollaj,Right Winger,21,€900k,Kosovo,Superliga e Kosovës,FC Malisheva,Romania,SuperLiga,FC Rapid 1923,900k,False
+Jean Pedroso,Centre-Back,21,€900k,Brazil,Without League,Coritiba Foot Ball Club,Ukraine,Premier Liga,Karpaty Lviv,900k,False
+Dion De Neve,Left Midfield,24,€900k,Belgium,Challenger Pro League,KV Kortrijk,England,Championship,Blackburn Rovers,750k,False
+Cristian Mihai,Defensive Midfield,20,€900k,Romania,SuperLiga,UTA Arad,Romania,SuperLiga,FC Dinamo 1948,350k,False
+Semir Telalovic,Centre-Forward,25,€900k,Germany,3. Liga,SSV Ulm 1846,Germany,2. Bundesliga,1.FC Nuremberg,300k,False
+Lukas Frenkert,Centre-Back,24,€900k,Germany,2. Bundesliga,Preußen Münster,Germany,2. Bundesliga,Eintracht Braunschweig,0,False
+Ricky-Jade Jones,Centre-Forward,22,€900k,England,League One,Peterborough United,Germany,Bundesliga,FC St. Pauli,0,False
+Maurice Neubauer,Left-Back,29,€900k,Germany,2. Bundesliga,SV 07 Elversberg,Germany,2. Bundesliga,Hannover 96,0,False
+Samuel Mraz,Centre-Forward,28,€900k,Poland,Ekstraklasa,Motor Lublin,Switzerland,Super League,Servette FC,0,False
+Giotto Morandi,Attacking Midfield,26,€900k,Switzerland,Super League,Grasshopper Club Zurich,Switzerland,Super League,Servette FC,0,False
+Jannik Dehm,Right-Back,29,€900k,Germany,2. Bundesliga,Hannover 96,Germany,2. Bundesliga,SpVgg Greuther Fürth,0,False
+Juho Talvitie,Right Winger,20,€900k,Belgium,Challenger Pro League,Lommel SK,Netherlands,Eredivisie,NAC Breda,0,True
+Sam Dalby,Centre-Forward,25,€900k,Wales,Championship,Wrexham AFC,England,League One,Bolton Wanderers,0,False
+Jordan Thompson,Central Midfield,28,€900k,England,Championship,Stoke City,England,Championship,Preston North End,0,False
+Hiiro Komori,Centre-Forward,24,€900k,Japan,J2 League,JEF United Chiba,Japan,J1 League,Urawa Red Diamonds,0,False
+Adis Jasic,Right-Back,22,€900k,Austria,Bundesliga,Wolfsberger AC,United Arab Emirates,UAE Pro League,Al-Ain FC,0,False
+Rami Rabia,Centre-Back,32,€900k,Egypt,Premier League,Al Ahly FC,United Arab Emirates,UAE Pro League,Al-Ain FC,0,False
+Chem Campbell,Attacking Midfield,22,€900k,England,Premier League,Wolverhampton Wanderers,England,League One,Stevenage FC,0,False
+Mouhamed Belkheir,Centre-Forward,26,€900k,Netherlands,Eredivisie,Fortuna Sittard,Belgium,Jupiler Pro League,RAAL La Louvière ,0,False
+Jairo,Centre-Forward,33,€900k,Cyprus,Cyprus League,Pafos FC,Malaysia,Super League,Johor Darul Ta'zim,0,False
+Nassim Chadli,Right Winger,23,€550k,Morocco,Botola Pro Inwi,Wydad Casablanca,United Arab Emirates,UAE Pro League,Al-Ain FC,875k,False
+Nicolas Milanovic,Right Winger,23,€850k,Australia,A-League Men,Western Sydney Wanderers,Scotland,Premiership,Aberdeen FC,475k,False
+Reda Laalaoui,Central Midfield,20,€850k,Morocco,Botola Pro Inwi,FUS Rabat,England,Championship,Hull City,250k,False
+Katsuya Nagato,Left-Back,30,€850k,Japan,J1 League,Yokohama F. Marinos,Japan,J1 League,Vissel Kobe,0,False
+Jan Van den Bergh,Centre-Back,30,€800k,Netherlands,Eredivisie,NAC Breda,Japan,J2 League,Júbilo Iwata,800k,False
+Aaron Keller,Left Winger,21,€800k,Germany,Regionalliga Bayern,SpVgg Unterhaching,Germany,2. Bundesliga,SpVgg Greuther Fürth,700k,False
+Aleksandr Ektov,Right-Back,29,€800k,Russia,Premier Liga,FC Krasnodar,Russia,Premier Liga,FC Pari Nizhniy Novgorod,400k,False
+Mostafa El Aash,Centre-Back,24,€800k,Egypt,Premier League,Zed FC,Egypt,Premier League,Al Ahly FC,0,False
+Bambasé Conté,Right Winger,21,€800k,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,2. Bundesliga,SV 07 Elversberg,0,True
+Youssef El Kachati,Centre-Forward,25,€800k,Netherlands,Eredivisie,SC Telstar,Netherlands,Eredivisie,NEC Nijmegen,0,False
+Gonzalo Crettaz,Goalkeeper,25,€800k,Spain,LaLiga2,CD Castellón,Netherlands,Eredivisie,NEC Nijmegen,0,False
+Shuto Abe,Central Midfield,27,€800k,Belgium,Challenger Pro League,RWD Molenbeek,Japan,J1 League,Gamba Osaka,0,False
+Vojtech Stransky,Central Midfield,22,€800k,Czech Republic,Chance Liga,FK Mlada Boleslav,Czech Republic,Chance Liga,FC Slovan Liberec,0,False
+Sebastián Olmedo,Centre-Back,24,€800k,Mexico,Without League,Puebla FC,Paraguay,Primera División Apertura,Atlético Tembetary,0,False
+Iker Álvarez,Goalkeeper,23,€800k,Spain,Without League,Villarreal CF B,Spain,LaLiga2,Córdoba CF,0,False
+George Saville,Central Midfield,32,€800k,England,Championship,Millwall FC,England,League One,Luton Town,0,False
+Marcus Harness,Attacking Midfield,29,€800k,England,Championship,Ipswich Town,England,League One,Huddersfield Town,0,False
+Moses Orkuma,Defensive Midfield,30,€800k,Tunisia,Ligue I Pro,US Monastir,Morocco,Botola Pro Inwi,Raja Club Athletic,0,False
+Marco Ilaimaharitra,Defensive Midfield,29,€800k,Belgium,Challenger Pro League,KV Kortrijk,Belgium,Jupiler Pro League,Standard Liège,0,False
+Alexis Beka Beka,Defensive Midfield,24,€800k,France,Without League,SM Caen B,Belgium,Jupiler Pro League,RAAL La Louvière ,0,False
+Aref Haji Eydi,Defensive Midfield,26,€800k,Iran,Persian Gulf Pro League,Aluminium Arak FC,Iran,Persian Gulf Pro League,Sepahan FC,0,False
+Unai García,Centre-Back,33,€800k,Spain,LaLiga,CA Osasuna,Greece,Super League 1,Panetolikos GFS,0,False
+Ezequiel Ham,Central Midfield,31,€800k,Argentina,Torneo Apertura,CA Unión (Santa Fe),Brazil,Without League,Atlético Clube Goianiense,0,False
+Freddy Álvarez,Attacking Midfield,30,€800k,Thailand,Thai League,BG Pathum United,Costa Rica,Primera División Apertura,AD Municipal Liberia,0,False
+Gjoko Zajkov,Centre-Back,30,€800k,Romania,SuperLiga,CS Universitatea Craiova,United Arab Emirates,Without League,Ajman Club,0,False
+Aleksandar Mesarovic,Attacking Midfield,26,€800k,Serbia,Super liga Srbije,FK Novi Pazar,Belarus,Vysheyshaya Liga,ML Vitebsk,0,False
+Frédéric Maciel,Right Winger,31,€800k,Romania,SuperLiga,SC Otelul Galati,Bulgaria,efbet Liga,CSKA 1948,0,False
+Mohammad Amin Kazemian,Right Winger,28,€750k,Iran,Persian Gulf Pro League,Aluminium Arak FC,Iran,Persian Gulf Pro League,Persepolis FC,438k,False
+Mihnea Rădulescu,Right Winger,19,€750k,Romania,SuperLiga,Petrolul Ploiesti,Romania,SuperLiga,CS Universitatea Craiova,400k,False
+Cristian Martínez,Defensive Midfield,28,€750k,Panama,Liga Panameña Clausura,CD Plaza Amador,Israel,Ligat ha'Al,Ironi Kiryat Shmona,140k,False
+Sonny Carey,Central Midfield,24,€750k,England,League One,Blackpool FC,England,Championship,Charlton Athletic,0,False
+Young-jun Goh,Second Striker,23,€750k,Serbia,Super liga Srbije,FK Partizan Belgrade,Poland,Ekstraklasa,Górnik Zabrze,0,False
+Mihajlo Petkovic,Attacking Midfield,21,€750k,Serbia,Super liga Srbije,FK Napredak Krusevac,Serbia,Super liga Srbije,FK Partizan Belgrade,0,False
+Asen Chandarov,Central Midfield,26,€750k,Bulgaria,efbet Liga,Levski Sofia,Bulgaria,efbet Liga,Cherno More Varna,0,False
+Daniel Grimshaw,Goalkeeper,27,€750k,England,League One,Plymouth Argyle,England,Championship,Norwich City,0,False
+Jordan Gabriel,Right-Back,26,€750k,England,League One,Blackpool FC,England,League One,Port Vale FC,0,False
+Eldar Civic,Left-Back,29,€750k,Hungary,NB I.,Ferencvárosi TC,Russia,Premier Liga,Baltika Kaliningrad,0,False
+Mihajlo Petkovic,Attacking Midfield,21,€750k,Serbia,Super liga Srbije,FK Partizan Belgrade,Serbia,Super liga Srbije,FK Novi Pazar,0,True
+João Lameira,Defensive Midfield,26,€750k,Russia,Premier Liga,Baltika Kaliningrad,Romania,SuperLiga,SC Otelul Galati,0,False
+Yahya Benkhaleq,Centre-Back,23,€700k,Morocco,Botola Pro Inwi,FUS Rabat,United Arab Emirates,UAE Pro League,Al-Ain FC,750k,False
+Julius Beck,Central Midfield,20,€650k,Denmark,1.Division,Esbjerg fB,Austria,Bundesliga,SK Sturm Graz,700k,False
+Ehije Ukaki,Right Winger,20,€700k,Bulgaria,efbet Liga,Botev Plovdiv,England,Championship,Sheffield United,600k,False
+Houssine Rahimi,Centre-Forward,23,€700k,Morocco,Botola Pro Inwi,Raja Club Athletic,United Arab Emirates,Without League,Al-Ain FC,590k,False
+Jonas Sterner,Right-Back,23,€700k,Germany,2. Bundesliga,Holstein Kiel,Germany,2. Bundesliga,Hannover 96,500k,False
+Vasilios Zagaritis,Left-Back,24,€700k,Netherlands,Keuken Kampioen Divisie,Almere City FC,Netherlands,Eredivisie,SC Heerenveen,500k,False
+Claudy Mbuyi,Centre-Forward,26,€700k,Austria,2. Liga,SKN St. Pölten,Austria,Bundesliga,Rapid Vienna,430k,False
+Xavier Simons,Defensive Midfield,22,€700k,England,Championship,Hull City,England,League One,Bolton Wanderers,350k,False
+Maciej Kikolski,Goalkeeper,21,€700k,Poland,Ekstraklasa,Legia Warszawa,Poland,Ekstraklasa,Widzew Lodz,300k,False
+Christoph Daferner,Centre-Forward,27,€700k,Germany,2. Bundesliga,1.FC Nuremberg,Germany,2. Bundesliga,SG Dynamo Dresden,250k,False
+Ahmed Ramadan,Centre-Back,28,€700k,Egypt,Premier League,Cleopatra FC,Egypt,Premier League,Al Ahly FC,176k,True
+Franz Roggow,Central Midfield,22,€700k,Germany,Regionalliga West,Borussia Dortmund II,Germany,2. Bundesliga,Hannover 96,0,False
+Sebastian Grönning,Centre-Forward,28,€700k,Germany,3. Liga,FC Ingolstadt 04,Germany,2. Bundesliga,Hertha BSC,0,False
+Luca Bazzoli,Defensive Midfield,24,€700k,Germany,2. Bundesliga,Preußen Münster,Germany,3. Liga,Rot-Weiss Essen,0,False
+Kevin Volland,Centre-Forward,32,€700k,Germany,Bundesliga,1.FC Union Berlin,Germany,3. Liga,TSV 1860 Munich,0,False
+Nick Bätzner,Attacking Midfield,25,€700k,Germany,3. Liga,SV Wehen Wiesbaden,Germany,2. Bundesliga,SC Paderborn 07,0,False
+Mihael Mlinaric,Centre-Forward,25,€700k,Bosnia-Herzegovina,Without League,FK Velez Mostar,Bosnia-Herzegovina,Without League,FK Sarajevo,0,False
+Alexandru Musi,Left Winger,20,€700k,Romania,SuperLiga,FCSB,Romania,SuperLiga,FC Dinamo 1948,0,False
+Jaroslaw Kubicki,Defensive Midfield,29,€700k,Poland,Ekstraklasa,Jagiellonia Bialystok,Poland,Ekstraklasa,Górnik Zabrze,0,False
+Virgil Misidjan,Left Winger,31,€700k,Hungary,NB I.,Ferencvárosi TC,Netherlands,Eredivisie,NEC Nijmegen,0,False
+Abdoulaye Sissako,Defensive Midfield,27,€700k,Belgium,Challenger Pro League,KV Kortrijk,Belgium,Jupiler Pro League,Sint-Truidense VV,0,False
+Kelvin Ofori,Left Winger,23,€700k,Slovakia,Nike Liga,Spartak Trnava,Slovakia,Nike Liga,Slovan Bratislava,0,False
+Jérémy Sebas,Left Winger,22,€700k,France,Ligue 1,RC Strasbourg Alsace,France,Ligue 2,SC Bastia,0,False
+Jakub Plsek,Central Midfield,31,€700k,Hungary,NB I.,Puskás Akadémia FC,Hungary,NB I.,MTK Budapest,0,False
+Andrija Majdevac,Centre-Forward,27,€700k,Greece,Super League 1,Panetolikos GFS,Serbia,Super liga Srbije,FK Napredak Krusevac,0,False
+Mateus Brunetti,Centre-Back,25,€700k,Slovakia,Nike Liga,DAC Dunajska Streda,Japan,J1 League,Shimizu S-Pulse,0,False
+Waldo Rubio,Left Winger,29,€700k,Spain,Without League,CD Tenerife,Cyprus,Cyprus League,AEK Larnaca,0,False
+Yerson Chacón,Left Winger,22,€700k,Venezuela,Liga FUTVE Apertura,Deportivo Táchira,Cyprus,Cyprus League,AEK Larnaca,0,False
+Dawid Drachal,Attacking Midfield,20,€700k,Poland,Ekstraklasa,Raków Częstochowa,Poland,Ekstraklasa,Jagiellonia Bialystok,0,False
+Matty Pearson,Centre-Back,31,€700k,England,League One,Huddersfield Town,England,League One,Doncaster Rovers,0,False
+Tenton Yenne,Left Winger,24,€700k,Armenia,Without League,FC Ararat-Armenia ,Russia,Premier Liga,Baltika Kaliningrad,0,False
+Mingiyan Beveev,Right-Back,29,€700k,Russia,1.Division,Ural Yekaterinburg,Russia,Premier Liga,Baltika Kaliningrad,0,False
+Nicolas Rommens,Central Midfield,30,€700k,Belgium,Jupiler Pro League,Zulte Waregem,Belgium,Challenger Pro League,Lommel SK,0,False
+Alexander Lyng,Left Winger,20,€700k,Switzerland,Super League,Servette FC,Denmark,Superliga,Sönderjyske,0,False
+Abolfazl Razzaghpour,Left-Back,27,€700k,Iran,Persian Gulf Pro League,Gol Gohar Sirjan FC,Iran,Persian Gulf Pro League,Foolad FC,0,False
+Reza Shekari,Attacking Midfield,27,€700k,Iran,Persian Gulf Pro League,Sepahan FC,Iran,Persian Gulf Pro League,Persepolis FC,0,False
+Anderson Santamaría,Centre-Back,33,€700k,Mexico,Without League,Santos Laguna,Peru,Liga 1 Apertura,Universitario de Deportes,0,False
+Bart Meijers,Centre-Back,28,€700k,Bosnia-Herzegovina,Premijer Liga BiH,FK Borac Banja Luka,Morocco,Botola Pro Inwi,Wydad Casablanca,0,False
+Sei Muroya,Right-Back,31,€700k,Germany,2. Bundesliga,Hannover 96,Japan,J1 League,FC Tokyo,0,False
+Yota Komi,Left Midfield,22,€700k,Japan,J1 League,Albirex Niigata,Japan,J1 League,Kashiwa Reysol,0,False
+Antonio Bosec,Right-Back,27,€700k,Croatia,SuperSport HNL,Slaven Belupo Koprivnica,Romania,SuperLiga,CFR Cluj,0,False
+Marrony,Right Winger,26,€700k,Denmark,Superliga,FC Midtjylland,Brazil,Without League,Clube do Remo (PA),0,False
+Bas Van den Eynden,Centre-Back,23,€700k,Belgium,Jupiler Pro League,KV Mechelen,Belgium,Challenger Pro League,Beerschot VA,0,False
+Dimitris Rallis,Centre-Forward,20,€650k,Netherlands,Eredivisie,SC Heerenveen,Poland,Ekstraklasa,Jagiellonia Bialystok,190k,False
+Sebastian Bergier,Centre-Forward,25,€650k,Poland,Ekstraklasa,GKS Katowice,Poland,Ekstraklasa,Widzew Lodz,0,False
+Nathan Baxter,Goalkeeper,26,€650k,England,League One,Bolton Wanderers,England,Championship,Watford FC,0,False
+Tristan van Gilst,Left Winger,22,€650k,Netherlands,Keuken Kampioen Divisie,De Graafschap Doetinchem,Netherlands,Eredivisie,Heracles Almelo,0,False
+Julius Beck,Central Midfield,20,€650k,Italy,Serie B,Spezia Calcio,Denmark,1.Division,Esbjerg fB,0,False
+Mohammadreza Akhbari,Goalkeeper,32,€650k,Iran,Persian Gulf Pro League,Gol Gohar Sirjan FC,Iran,Persian Gulf Pro League,Sepahan FC,0,False
+Payam Niazmand,Goalkeeper,30,€650k,Iran,Persian Gulf Pro League,Sepahan FC,Iran,Persian Gulf Pro League,Persepolis FC,0,False
+Seung-gyu Kim,Goalkeeper,34,€650k,Saudi Arabia,Saudi Pro League,Al-Shabab FC,Japan,J1 League,FC Tokyo,0,False
+Adi Chică-Roșă,Centre-Forward,26,€650k,Romania,SuperLiga,FC Botosani,Romania,SuperLiga,Petrolul Ploiesti,0,False
+Dorinel Oancea,Right-Back,28,€650k,Romania,SuperLiga,FC Universitatea Cluj,Romania,SuperLiga,ACSC FC Arges,0,False
+Vadim Rață,Central Midfield,32,€650k,Romania,SuperLiga,FC Universitatea Cluj,Romania,SuperLiga,ACSC FC Arges,0,False
+Brahim Konaté,Central Midfield,29,€650k,Azerbaijan,Premyer Liqa,FC Shamakhi,Azerbaijan,Premyer Liqa,Zira FC,0,False
+Robert Silaghi,Attacking Midfield,23,€650k,Romania,SuperLiga,FC Universitatea Cluj,Romania,Liga 2,Sepsi OSK Sf. Gheorghe,0,False
+Ronald Briones,Central Midfield,24,€300k,Ecuador,LigaPro Serie A,SD Aucas,Ecuador,LigaPro Serie A,Independiente del Valle,610k,False
+Marcus Bettinelli,Goalkeeper,33,€600k,England,Premier League,Chelsea FC,England,Premier League,Manchester City,2.4,False
+Filippo Pittarello,Centre-Forward,28,€400k,Italy,Without League,AS Cittadella,Italy,Serie B,US Catanzaro,600k,False
+Renne Rivas,Left-Back,22,€400k,Venezuela,Liga FUTVE Apertura,Caracas FC,Saudi Arabia,Without League,Al-Taawoun FC,600k,False
+Lukas Reich,Right-Back,18,€600k,Germany,3. Liga,TSV 1860 Munich,Germany,2. Bundesliga,SpVgg Greuther Fürth,500k,False
+Vitaliy Stezhko,Centre-Back,28,€600k,Russia,1.Division,Chernomorets Novorossijsk,Russia,Premier Liga,FC Krasnodar,450k,False
+Jannik Robatsch,Centre-Back,20,€600k,Austria,2. Liga,SK Austria Klagenfurt,Germany,Bundesliga,FC St. Pauli,400k,False
+Raphael Sallinger,Goalkeeper,29,€600k,Austria,Bundesliga,TSV Hartberg,Scotland,Premiership,Hibernian FC,360k,False
+Elton Kabangu,Centre-Forward,27,€600k,Belgium,Jupiler Pro League,Union Saint-Gilloise,Scotland,Premiership,Heart of Midlothian FC,300k,False
+Bobby Wales,Centre-Forward,20,€600k,Scotland,Premiership,Kilmarnock FC,Wales,Championship,Swansea City,300k,False
+Patryk Klimala,Centre-Forward,26,€600k,Poland,Ekstraklasa,Slask Wroclaw,"Korea, South",K League 1,FC Seoul,300k,False
+Amirmohammad Razzaghinia,Central Midfield,19,€600k,Iran,Persian Gulf Pro League,Gol Gohar Sirjan FC,Iran,Persian Gulf Pro League,Esteghlal FC,264k,False
+Kreshnik Hajrizi,Centre-Back,26,€600k,Poland,Ekstraklasa,Widzew Lodz,Switzerland,Super League,FC Sion,213k,False
+Mladen Cvjetinovic,Centre-Back,21,€600k,Germany,3. Liga,FC Ingolstadt 04,Germany,2. Bundesliga,Holstein Kiel,200k,False
+Kiko,Left-Back,25,€600k,Portugal,Liga Portugal,Gil Vicente FC,Portugal,Liga Portugal 2,GD Chaves,200k,False
+Igor Gorbach,Centre-Forward,21,€600k,Ukraine,Premier Liga,Dynamo Kyiv,Ukraine,Premier Liga,Zorya Lugansk,200k,False
+Ron-Thorben Hoffmann,Goalkeeper,26,€600k,Germany,2. Bundesliga,FC Schalke 04,Germany,2. Bundesliga,Eintracht Braunschweig,100k,False
+Kahraba,Centre-Forward,31,€600k,Egypt,Without League,Al Ahly FC,Libya,Without League,Al-Ittihad SC,72k,False
+José Pozo,Attacking Midfield,29,€600k,Poland,Betclic 1 Liga,Slask Wroclaw,Poland,Ekstraklasa,Pogon Szczecin,40k,False
+Maxwell Gyamfi,Centre-Back,25,€600k,Germany,3. Liga,VfL Osnabrück,Germany,2. Bundesliga,1.FC Kaiserslautern,0,False
+Tim Handwerker,Left-Back,27,€600k,Germany,3. Liga,SSV Jahn Regensburg,Germany,2. Bundesliga,Arminia Bielefeld,0,False
+Paul Stock,Attacking Midfield,28,€600k,Germany,2. Bundesliga,SV 07 Elversberg,Germany,3. Liga,FC Hansa Rostock,0,False
+Luca Pfeiffer,Centre-Forward,28,€600k,Germany,Bundesliga,VfB Stuttgart,Germany,2. Bundesliga,SV 07 Elversberg,0,False
+Philipp Ziereis,Centre-Back,32,€600k,Austria,Bundesliga,LASK,Germany,2. Bundesliga,SpVgg Greuther Fürth,0,False
+Rio Hillen,Centre-Back,22,€600k,Netherlands,Keuken Kampioen Divisie,De Graafschap Doetinchem,Netherlands,Eredivisie,NAC Breda,0,False
+Joshua Nisbet,Central Midfield,26,€600k,Scotland,Championship,Ross County FC,Netherlands,Keuken Kampioen Divisie,Roda JC Kerkrade,0,False
+Emirhan Demircan,Left Winger,20,€600k,Germany,Regionalliga Bayern,FC Bayern Munich II,Netherlands,Eredivisie,FC Utrecht,0,False
+Daniel Arzani,Right Winger,26,€600k,Australia,A-League Men,Melbourne Victory,Hungary,NB I.,Ferencvárosi TC,0,False
+Denis Alibec,Centre-Forward,34,€600k,Romania,SuperLiga,FCV Farul Constanta,Romania,SuperLiga,FCSB,0,False
+Idjessi Metsoko,Centre-Forward,23,€600k,Czech Republic,Chance Liga,FC Viktoria Plzen,Slovakia,Nike Liga,Spartak Trnava,0,True
+Jari Schuurman,Attacking Midfield,28,€600k,Netherlands,Keuken Kampioen Divisie,FC Dordrecht,Netherlands,Keuken Kampioen Divisie,Willem II Tilburg,0,False
+Sota Kitano,Attacking Midfield,20,€600k,Japan,J1 League,Cerezo Osaka,Austria,Bundesliga,Red Bull Salzburg,0,False
+Gabin Bernardeau,Attacking Midfield,19,€600k,France,Ligue 2,Le Mans FC,France,Ligue 1,OGC Nice,0,False
+Thierry Small,Left-Back,20,€600k,England,Championship,Charlton Athletic,England,Championship,Preston North End,0,False
+Nökkvi Thórisson,Centre-Forward,25,€600k,United States,MLS,St. Louis CITY SC,Netherlands,Eredivisie,Sparta Rotterdam,0,False
+Peter Pokorny,Defensive Midfield,23,€600k,Poland,Betclic 1 Liga,Slask Wroclaw,Slovakia,Nike Liga,Slovan Bratislava,0,False
+Issiaka Karamoko,Left Winger,23,€600k,France,Championnat National,Paris 13 Atletico,France,Ligue 2,SC Bastia,0,False
+Gilles Ruyssen,Centre-Back,31,€600k,Belgium,Jupiler Pro League,FCV Dender EH,Belgium,Challenger Pro League,KV Kortrijk,0,False
+Manuel Capasso,Centre-Back,29,€600k,Brazil,Série A,Clube de Regatas Vasco da Gama,Paraguay,Primera División Apertura,Olimpia Asunción,0,False
+Marc Mateu,Left-Back,35,€600k,Spain,Without League,CD Eldense,Spain,Without League,CD Tenerife,0,False
+Lukas Masek,Second Striker,21,€600k,Czech Republic,Chance Liga,FK Mlada Boleslav,Czech Republic,Chance Liga,FC Slovan Liberec,0,False
+Ondrej Kukucka,Centre-Back,21,€600k,Czech Republic,Chance Liga,AC Sparta Prague,Czech Republic,Chance Liga,Bohemians Prague 1905,0,True
+Martin Velichkov,Goalkeeper,25,€600k,Bulgaria,efbet Liga,Spartak Varna,Bulgaria,efbet Liga,Lokomotiv Sofia,0,False
+Mathijs Tielemans,Central Midfield,23,€600k,Netherlands,Keuken Kampioen Divisie,Vitesse Arnhem,Netherlands,Eredivisie,Excelsior Rotterdam,0,False
+Alin Roman,Attacking Midfield,31,€600k,Romania,Liga 2,ACSM Politehnica Iasi,Romania,SuperLiga,UTA Arad,0,False
+Rubén Alves,Centre-Back,30,€600k,Spain,Without League,CD Tenerife,Spain,LaLiga2,Córdoba CF,0,False
+Paudie O'Connor,Centre-Back,27,€600k,England,League One,Lincoln City,England,League One,Reading FC,0,False
+Murray Wallace,Centre-Back,32,€600k,England,Championship,Millwall FC,England,League One,Huddersfield Town,0,False
+Butta Magomedov,Attacking Midfield,27,€600k,Russia,Without League,FC Khimki (-2025),Russia,1.Division,Fakel Voronezh,0,False
+Rubén Pulido,Centre-Back,24,€600k,Spain,LaLiga2,SD Huesca,Spain,LaLiga2,CD Leganés,0,False
+Luka Reischl,Attacking Midfield,21,€600k,Austria,Bundesliga,Red Bull Salzburg,Netherlands,Keuken Kampioen Divisie,ADO Den Haag,0,False
+Baptiste Mouazan,Central Midfield,23,€600k,France,Championnat National,US Concarneau,France,Ligue 2,Grenoble Foot 38,0,False
+Lander Olaetxea,Central Midfield,32,€600k,Spain,LaLiga2,Sporting Gijón,Spain,LaLiga2,SD Eibar,0,False
+Parvizdzhon Umarbaev,Defensive Midfield,30,€600k,Bulgaria,efbet Liga,CSKA 1948,Bulgaria,efbet Liga,Lokomotiv Plovdiv,0,False
+Ricardo Santos,Centre-Back,30,€600k,England,League One,Bolton Wanderers,Wales,Championship,Swansea City,0,False
+Roy Levy,Right-Back,25,€600k,Israel,Ligat ha'Al,FC Ashdod,Israel,Ligat ha'Al,Hapoel Beer Sheva,0,False
+Nikolay Pokidyshev,Centre-Back,28,€600k,Russia,1.Division,SKA Khabarovsk,Russia,1.Division,Rotor Volgograd,0,False
+Lucas Bretelle,Defensive Midfield,23,€600k,France,Championnat National,US Orléans,Belgium,Jupiler Pro League,RAAL La Louvière ,0,False
+Omar Al-Somah,Centre-Forward,36,€600k,Saudi Arabia,Saudi Pro League,Al-Orobah FC,Morocco,Botola Pro Inwi,Wydad Casablanca,0,False
+Drilon Islami,Defensive Midfield,24,€600k,Kosovo,Superliga e Kosovës,FC Prishtina,Romania,SuperLiga,CFR Cluj,0,False
+Jesus Diaz,Attacking Midfield,26,€600k,Poland,Betclic 1 Liga,Stal Rzeszow,Poland,Ekstraklasa,Raków Częstochowa,0,False
+Juan Blanco,Left Winger,30,€600k,Mexico,Without League,Mineros de Zacatecas,Guatemala,Liga Guate Clausura,Comunicaciones FC,0,False
+Kubilay Kanatsızkuş,Centre-Forward,28,€600k,Türkiye,Süper Lig,Göztepe,Türkiye,Süper Lig,Kasimpasa,0,False
+Leonel Bucca,Defensive Midfield,26,€600k,Portugal,Liga Portugal,CF Estrela Amadora,Argentina,Torneo Apertura,CS Independiente Rivadavia,0,False
+Eduardo Bores,Goalkeeper,22,€600k,Ecuador,LigaPro Serie A,Libertad FC,Ecuador,LigaPro Serie A,Independiente del Valle,0,False
+Dino Hotic,Right Winger,29,€600k,Poland,Ekstraklasa,Lech Poznan,United Arab Emirates,Without League,Ajman Club,0,False
+Antonio Vutov,Attacking Midfield,29,€600k,Bulgaria,efbet Liga,Spartak Varna,Bulgaria,efbet Liga,Arda Kardzhali,0,False
+Samuel Teles,Central Midfield,28,€600k,Romania,SuperLiga,SC Otelul Galati,Romania,SuperLiga,CS Universitatea Craiova,0,False
+Alexandru Crețu,Defensive Midfield,33,€600k,Saudi Arabia,Without League,Al-Wehda FC,Romania,SuperLiga,CS Universitatea Craiova,0,False
+Daniel Stefulj,Left-Back,25,€550k,Croatia,SuperSport HNL,GNK Dinamo Zagreb,Hungary,NB I.,ETO FC Győr ,500k,False
+Magnus Jensen,Centre-Back,28,€550k,Denmark,1.Division,Lyngby Boldklub,Denmark,Superliga,Sönderjyske,400k,False
+Nermin Karić,Central Midfield,25,€550k,Italy,Without League,FC Trapani 1905,Italy,Serie B,Virtus Entella,160k,False
+Yonis Njoh,Left Winger,21,€550k,France,Ligue 2,Pau FC,Denmark,Superliga,Viborg FF,134k,False
+Dominik Javorcek,Left-Back,22,€550k,Slovakia,Nike Liga,MSK Zilina,Czech Republic,Chance Liga,SK Slavia Prague,0,False
+Christian Frydek,Attacking Midfield,26,€550k,Czech Republic,Chance Liga,FC Slovan Liberec,Czech Republic,Chance Liga,FC Banik Ostrava,0,False
+Hector Kyprianou,Defensive Midfield,24,€550k,England,League One,Peterborough United,England,Championship,Watford FC,0,False
+Fernand Mayembo,Centre-Back,29,€550k,Israel,Ligat ha'Al,Hapoel Haifa,Israel,Ligat ha'Al,Hapoel Tel Aviv,0,False
+Adrian Segecic,Right Winger,21,€550k,Australia,A-League Men,Sydney FC,England,Championship,Portsmouth FC,0,False
+Kosuke Kinoshita,Centre-Forward,30,€550k,Japan,J1 League,Kashiwa Reysol,Japan,J1 League,Sanfrecce Hiroshima,0,False
+Nidhal Laifi,Left-Back,27,€550k,Tunisia,Ligue I Pro,Stade Tunisien,Tunisia,Ligue I Pro,Esperance Tunis,0,False
+Nemanja Ljubisavljevic,Centre-Back,28,€550k,Israel,Ligat ha'Al,Maccabi Bnei Reineh,Israel,Ligat ha'Al,Ironi Kiryat Shmona,0,False
+Jonathan Cissé,Centre-Back,28,€550k,Romania,SuperLiga,SC Otelul Galati,Romania,SuperLiga,FC Universitatea Cluj,0,False
+Ernesto Monreal,Centre-Back,26,€550k,Mexico,Without League,Celaya FC,Guatemala,Liga Guate Clausura,Comunicaciones FC,0,False
+Filipe Almeida,Centre-Back,27,€550k,Portugal,Liga Portugal 2,CD Feirense,Armenia,Without League,FC Pyunik Yerevan,0,False
+Dani Bolt,Right-Back,26,€550k,Portugal,Liga Portugal 2,SC União Torreense,Azerbaijan,Premyer Liqa,Qarabağ FK,0,False
+Abdallah Gning,Centre-Forward,26,€550k,Czech Republic,Chance Liga,FK Teplice,Czech Republic,Chance Liga,MFK Karvina,0,False
+Cláudio Braga,Centre-Forward,25,€400k,Norway,OBOS-ligaen,Aalesunds FK,Scotland,Premiership,Heart of Midlothian FC,520k,False
+Kasey Bos,Left-Back,21,€450k,Australia,A-League Men,Melbourne Victory,Germany,Bundesliga,1.FSV Mainz 05,500k,False
+Zoumana Keita,Centre-Back,19,€500k,Germany,3. Liga,FC Viktoria Köln,Belgium,Jupiler Pro League,RSC Anderlecht,500k,False
+Tjaronn Chery,Attacking Midfield,37,€500k,Belgium,Jupiler Pro League,Royal Antwerp FC,Netherlands,Eredivisie,NEC Nijmegen,500k,False
+Fabian Wohlmuth,Right-Back,23,€500k,Austria,Bundesliga,SV Ried,Austria,Bundesliga,Wolfsberger AC,500k,False
+Tomás Muro,Central Midfield,23,€400k,Russia,1.Division,FC Orenburg,Argentina,Torneo Apertura,CS Independiente Rivadavia,500k,False
+Erce Kardeşler,Goalkeeper,31,€450k,Türkiye,Without League,Hatayspor,Türkiye,Without League,Amed SK,500k,False
+Aleksandr Koryakin,Goalkeeper,23,€450k,Russia,1.Division,Rodina Moscow,Russia,Premier Liga,FC Krasnodar,500k,False
+Gustavo Furtado,Left Winger,24,€500k,Greece,Without League,PAS Lamia 1964,Russia,Premier Liga,FC Krasnodar,450k,False
+Tobias Hedl,Centre-Forward,22,€500k,Austria,2. Liga,SK Rapid Wien II,Belgium,Jupiler Pro League,Zulte Waregem,380k,False
+Jost Urbancic,Left-Back,24,€500k,Norway,Eliteserien,Viking FK,Slovenia,Prva Liga,NK Olimpija Ljubljana,350k,False
+Jae-hyeon Mo,Right Winger,28,€500k,"Korea, South",K League 2,Gyeongnam FC,"Korea, South",K League 1,Gangwon FC,346k,False
+Luc Marijnissen,Centre-Back,22,€500k,Belgium,Challenger Pro League,K Lierse SK,Belgium,Jupiler Pro League,FCV Dender EH,300k,False
+Mykola Gayduchyk,Centre-Forward,25,€500k,Ukraine,Premier Liga,NK Veres Rivne,Ukraine,Premier Liga,Polissya Zhytomyr,260k,False
+Adam Griger,Centre-Forward,21,€500k,Spain,Without League,Recreativo Granada,Czech Republic,Chance Liga,FC Hradec Kralove,250k,False
+Martin Rymarenko,Centre-Forward,26,€500k,Slovakia,Without League,MFK Dukla Banska Bystrica,Czech Republic,ChNL,FC Zbrojovka Brno,230k,False
+Mojtaba Fakhrian,Centre-Forward,22,€500k,Iran,Persian Gulf Pro League,Shams Azar Qazvin,Iran,Persian Gulf Pro League,Persepolis FC,215k,False
+José Martines,Right Winger,22,€500k,Bolivia,División Profesional,San Antonio Bulo Bulo,Bulgaria,efbet Liga,CSKA 1948,187k,False
+Lamine Diaby-Fadiga,Centre-Forward,24,€500k,Poland,Ekstraklasa,Jagiellonia Bialystok,Poland,Ekstraklasa,Raków Częstochowa,120k,False
+Soulaimane El Bouchqali,Attacking Midfield,22,€500k,Morocco,Botola Pro Inwi,Renaissance Zemamra,Morocco,Botola Pro Inwi,AS FAR Rabat,76k,False
+Andrey Okladnikov,Centre-Forward,26,€500k,Russia,1.Division,Chernomorets Novorossijsk,Russia,1.Division,Enisey Krasnoyarsk,40k,False
+Andreas Voglsammer,Centre-Forward,33,€500k,Germany,2. Bundesliga,Hannover 96,Germany,3. Liga,FC Hansa Rostock,0,False
+Christopher Lenz,Left-Back,30,€500k,Germany,Bundesliga,TSG 1899 Hoffenheim,Germany,2. Bundesliga,Fortuna Düsseldorf,0,False
+Florian Niederlechner,Centre-Forward,34,€500k,Germany,2. Bundesliga,Hertha BSC,Germany,3. Liga,TSV 1860 Munich,0,False
+Philipp Strompf,Centre-Back,27,€500k,Germany,3. Liga,SSV Ulm 1846,Germany,2. Bundesliga,VfL Bochum,0,False
+Francis Onyeka,Attacking Midfield,18,€500k,Germany,Bundesliga,Bayer 04 Leverkusen,Germany,2. Bundesliga,VfL Bochum,0,True
+Ben Lederman,Defensive Midfield,25,€500k,Poland,Ekstraklasa,Raków Częstochowa,Israel,Ligat ha'Al,Maccabi Tel Aviv,0,False
+Bennit Bröger,Attacking Midfield,19,€500k,Germany,Without League,VfL Wolfsburg U19,Germany,2. Bundesliga,SC Paderborn 07,0,False
+Jamal Amofa,Centre-Back,26,€500k,Bulgaria,efbet Liga,Botev Plovdiv,Netherlands,Keuken Kampioen Divisie,SC Cambuur Leeuwarden,0,False
+Kyliane Dong,Right Winger,20,€500k,France,Ligue 2,ESTAC Troyes,Germany,Bundesliga,FC Augsburg,0,False
+Lamine Sy,Right-Back,22,€500k,France,Championnat National,SM Caen,France,Ligue 1,AJ Auxerre,0,False
+Daniel Graovac,Centre-Back,31,€500k,Romania,SuperLiga,CFR Cluj,Romania,SuperLiga,FCSB,0,False
+Maas Willemsen,Centre-Back,22,€500k,Netherlands,Keuken Kampioen Divisie,De Graafschap Doetinchem,Netherlands,Eredivisie,SC Heerenveen,0,False
+Tobias Koch,Defensive Midfield,24,€500k,Austria,2. Liga,SK Austria Klagenfurt,Austria,Bundesliga,Grazer AK 1902,0,False
+Kusini Yengi,Centre-Forward,26,€500k,England,Championship,Portsmouth FC,Scotland,Premiership,Aberdeen FC,0,False
+Theodoros Tsirigotis,Centre-Forward,25,€500k,Greece,Without League,POT Iraklis Thessaloniki,Poland,Ekstraklasa,Górnik Zabrze,0,False
+Pol Valentín,Right-Back,28,€500k,England,Championship,Sheffield Wednesday,England,Championship,Preston North End,0,False
+Bryan Okoh,Centre-Back,22,€500k,Austria,Bundesliga,Red Bull Salzburg,Switzerland,Super League,FC Lausanne-Sport,0,False
+Liam De Smet,Central Midfield,21,€500k,Belgium,Challenger Pro League,Club NXT,Belgium,Challenger Pro League,KV Kortrijk,0,False
+Lenn De Smet,Left Winger,21,€500k,Belgium,Challenger Pro League,Club NXT,Belgium,Challenger Pro League,KV Kortrijk,0,False
+Franko Kovacevic,Centre-Forward,25,€500k,Germany,3. Liga,SV Wehen Wiesbaden,Slovenia,Prva Liga,NK Celje,0,False
+Reyan Daskalov,Defensive Midfield,30,€500k,Bulgaria,efbet Liga,CSKA 1948,Bulgaria,efbet Liga,Lokomotiv Sofia,0,False
+Mitko Mitkov,Left Winger,24,€500k,Bulgaria,efbet Liga,Septemvri Sofia,Bulgaria,efbet Liga,Lokomotiv Sofia,0,False
+Erol Dost,Defensive Midfield,26,€500k,Bulgaria,Vtora Liga,Krumovgrad,Bulgaria,efbet Liga,Lokomotiv Sofia,0,False
+Mark Spanring,Right-Back,24,€500k,Slovenia,Prva Liga,NK Bravo,Slovenia,Prva Liga,NK Maribor,0,False
+Matous Trmal,Goalkeeper,26,€500k,Czech Republic,Chance Liga,FK Mlada Boleslav,Czech Republic,Chance Liga,FK Teplice,0,False
+Layton Stewart,Centre-Forward,22,€500k,England,Championship,Preston North End,Switzerland,Super League,FC Thun,0,False
+Sergi Guardiola,Centre-Forward,34,€500k,Spain,LaLiga,Rayo Vallecano,Spain,LaLiga2,Córdoba CF,0,False
+Geoffry Hairemans,Right Winger,33,€500k,Belgium,Jupiler Pro League,KV Mechelen,Belgium,Jupiler Pro League,Royal Antwerp FC,0,False
+Josh Feeney,Centre-Back,20,€500k,England,Without League,Aston Villa U21,England,League One,Huddersfield Town,0,True
+Yuriy Zhuravlev,Centre-Back,29,€500k,Russia,1.Division,SKA Khabarovsk,Russia,1.Division,Fakel Voronezh,0,False
+Georgiy Gongadze,Centre-Forward,29,€500k,Russia,1.Division,SKA Khabarovsk,Russia,1.Division,Fakel Voronezh,0,False
+Ravil Netfullin,Defensive Midfield,32,€500k,Russia,Premier Liga,Torpedo Moscow,Russia,1.Division,Fakel Voronezh,0,False
+Adama Diakité,Left Winger,25,€500k,France,Championnat National,FC Villefranche-Beaujolais,France,Championnat National,SM Caen,0,False
+Stone Mambo,Centre-Back,26,€500k,France,Ligue 2,Rodez AF,France,Ligue 2,Grenoble Foot 38,0,False
+Vladimír Darida,Central Midfield,34,€500k,Greece,Super League 1,Aris Thessaloniki,Czech Republic,Chance Liga,FC Hradec Kralove,0,False
+Mollo Bessala,Centre-Forward,21,€500k,Ukraine,Premier Liga,LNZ Cherkasy,Moldova,Without League,FC Sheriff Tiraspol,0,True
+Greg Kiltie,Left Winger,28,€500k,Scotland,Premiership,St. Mirren FC,Scotland,Premiership,Kilmarnock FC,0,False
+Tobias Mohr,Left Midfield,29,€500k,Germany,2. Bundesliga,FC Schalke 04,Belgium,Jupiler Pro League,Standard Liège,0,False
+Matthis Riou,Centre-Back,24,€500k,France,Ligue 2,EA Guingamp,Belgium,Jupiler Pro League,RAAL La Louvière ,0,False
+Ventsislav Kerchev,Centre-Back,28,€500k,Bulgaria,efbet Liga,Slavia Sofia,Bulgaria,efbet Liga,Dobrudzha Dobrich,0,False
+José Francisco Cevallos Jr.,Attacking Midfield,30,€500k,Ecuador,LigaPro Serie A,CD El Nacional,Ecuador,LigaPro Serie A,CS Emelec,0,False
+Luis Caicedo,Centre-Back,27,€500k,Ecuador,LigaPro Serie A,Delfín SC,Ecuador,LigaPro Serie A,CS Emelec,0,False
+Veljko Jelenkovic,Centre-Back,22,€500k,Bulgaria,efbet Liga,Slavia Sofia,Slovenia,Prva Liga,NK Olimpija Ljubljana,0,False
+Răzvan Trif,Left-Back,27,€500k,Romania,SuperLiga,UTA Arad,Romania,SuperLiga,SC Otelul Galati,0,False
+Andrej Stojcevski,Centre-Back,22,€500k,Slovakia,Nike Liga,MSK Zilina,Czech Republic,Chance Liga,1.FC Slovacko,0,False
+Manolo Portanova,Central Midfield,25,€500k,Italy,Serie A,Genoa CFC,Italy,Serie B,AC Reggiana 1919,0,False
+Dominik Pila,Right-Back,24,€500k,Poland,Ekstraklasa,Lechia Gdansk,Poland,Ekstraklasa,Cracovia,0,False
+Mansour Bagheri,Defensive Midfield,26,€500k,Iran,Azadegan League,FC Nassaji Mazandaran,Iran,Persian Gulf Pro League,Paykan FC,0,False
+Jovo Lukic,Centre-Forward,26,€500k,Romania,SuperLiga,CS Universitatea Craiova,Romania,SuperLiga,FC Universitatea Cluj,0,False
+Hamza Hannouri,Centre-Forward,27,€500k,Morocco,Botola Pro Inwi,FUS Rabat,Morocco,Botola Pro Inwi,Wydad Casablanca,0,False
+Seiya Baba,Centre-Back,23,€500k,Japan,J2 League,Hokkaido Consadole Sapporo,Japan,J1 League,Kashiwa Reysol,0,False
+Dimitris Emmanouilidis,Left Winger,24,€500k,Denmark,Superliga,Vejle Boldklub,Greece,Super League 1,Asteras Aktor,0,False
+Henry Vaca,Centre-Forward,27,€500k,Bolivia,División Profesional,Bolívar La Paz,Bolivia,División Profesional,Club Deportivo Oriente Petrolero,0,False
+Marko Gjorgjievski,Centre-Forward,25,€500k,North Macedonia,Prva liga,Sileks Kratovo,Romania,SuperLiga,CFR Cluj,0,False
+Sead Islamovic,Central Midfield,25,€500k,Serbia,Super liga Srbije,FK Novi Pazar,Armenia,Without League,FC Pyunik Yerevan,0,False
+Jordan Morel,Central Midfield,22,€500k,France,Championnat National,Football Bourg-en-Bresse Péronnas 01,France,Championnat National,US Orléans,0,False
+Jobson,Central Midfield,29,€500k,Saudi Arabia,Without League,Al-Jabalain FC,United Arab Emirates,Without League,Al-Dhafra FC,0,False
+Gastón Gómez,Goalkeeper,29,€500k,Argentina,Torneo Apertura,Racing Club,Chile,Liga de Ascenso,Deportes Concepción,0,True
+Rodrigo Ruiz Díaz,Centre-Forward,26,€500k,Russia,Premier Liga,Akhmat Grozny,Paraguay,Primera División Apertura,Club Sportivo 2 de Mayo,0,False
+Wálter Chávez,Goalkeeper,31,€500k,Ecuador,LigaPro Serie A,Técnico Universitario,Ecuador,LigaPro Serie A,Manta FC,0,False
+Marcos Olmedo,Defensive Midfield,26,€500k,Ecuador,LigaPro Serie A,CD El Nacional,Ecuador,LigaPro Serie A,Mushuc Runa SC,0,False
+Hyun-beom Ahn,Right-Back,30,€500k,"Korea, South",K League 1,Jeonbuk Hyundai Motors,"Korea, South",K League 1,Suwon FC,0,True
+Davis Ikaunieks,Centre-Forward,31,€500k,Brunei Darussalam,Super League,Brunei DPMM FC,Latvia,Virsliga,FC RFS,0,False
+Martin Hristov,Centre-Back,21,€500k,Bulgaria,Without League,Botev Plovdiv II,Bulgaria,efbet Liga,Septemvri Sofia,0,False
+Ismayil Ibrahimli,Defensive Midfield,27,€500k,Azerbaijan,Premyer Liqa,Qarabağ FK,Azerbaijan,Premyer Liqa,Zira FC,0,False
+Hossein Pourhamidi,Goalkeeper,27,€500k,Iran,Persian Gulf Pro League,Tractor FC,Iran,Persian Gulf Pro League,Kheybar Khorramabad FC,0,False
+Mats Lemmens,Centre-Back,23,€500k,Italy,Serie A,US Lecce,Belgium,Challenger Pro League,RWD Molenbeek,0,False
+Felix Keidel,Right-Back,22,€450k,Germany,3. Liga,FC Ingolstadt 04,Germany,2. Bundesliga,SV 07 Elversberg,400k,False
+Johnbosco Samuel Kalu,Centre-Forward,27,€450k,Sweden,Allsvenskan,IFK Värnamo,Israel,Ligat ha'Al,Beitar Jerusalem,300k,False
+Sekou Tidiany Bangoura,Attacking Midfield,23,€450k,Türkiye,Süper Lig,Basaksehir FK,Israel,Ligat ha'Al,Ironi Kiryat Shmona,250k,False
+Karol Niemczycki,Goalkeeper,25,€450k,Germany,2. Bundesliga,SV Darmstadt 98,Israel,Ligat ha'Al,FC Ashdod,250k,False
+Sessi D'Almeida,Defensive Midfield,29,€450k,Cyprus,Cyprus League,Apollon Limassol,Azerbaijan,Premyer Liqa,Neftchi PFK,200k,False
+Simeon Petrov,Centre-Back,25,€450k,Poland,Betclic 1 Liga,Slask Wroclaw,Hungary,NB II.,Fehérvár FC,150k,False
+Wiktor Nowak,Attacking Midfield,20,€450k,Poland,Betclic 1 Liga,Znicz Pruszkow,Poland,Ekstraklasa,Górnik Zabrze,18k,False
+Christian Borchgrevink,Right-Back,26,€450k,Norway,Eliteserien,Vålerenga Fotball Elite,Scotland,Premiership,Heart of Midlothian FC,0,False
+Rasim Bulic,Defensive Midfield,24,€450k,Germany,3. Liga,SSV Jahn Regensburg,Germany,3. Liga,MSV Duisburg,0,False
+Yoav Gerafi,Goalkeeper,31,€450k,Israel,Ligat ha'Al,Hapoel Haifa,Israel,Ligat ha'Al,Maccabi Tel Aviv,0,False
+Petr Hodous,Right-Back,21,€450k,Czech Republic,ChNL,SK Dynamo Ceske Budejovice,Czech Republic,Chance Liga,AC Sparta Prague,0,False
+Liam Bossin,Goalkeeper,28,€450k,Netherlands,Keuken Kampioen Divisie,FC Dordrecht,Netherlands,Eredivisie,Feyenoord Rotterdam,0,False
+Tom Gaal,Centre-Back,24,€450k,Germany,3. Liga,SSV Ulm 1846,Switzerland,Super League,FC St. Gallen 1879,0,False
+Marcel Lubik,Goalkeeper,21,€450k,Germany,Bundesliga,FC Augsburg,Poland,Ekstraklasa,Górnik Zabrze,0,True
+Killian Phillips,Central Midfield,23,€450k,England,Without League,Crystal Palace U21,Scotland,Premiership,St. Mirren FC,0,False
+Petr Hodous,Right-Back,21,€450k,Czech Republic,Chance Liga,AC Sparta Prague,Czech Republic,Chance Liga,FC Slovan Liberec,0,False
+Brian Kaltak,Centre-Back,31,€450k,Australia,A-League Men,Central Coast Mariners,Australia,A-League Men,Perth Glory,0,False
+Joe Low,Centre-Back,23,€450k,England,League One,Wycombe Wanderers,England,League One,Huddersfield Town,0,False
+Jean Vercruysse,Central Midfield,24,€450k,France,Championnat National,US Boulogne,France,Ligue 2,Le Mans FC,0,False
+Zachary Sapsford,Centre-Forward,22,€450k,Australia,A-League Men,Western Sydney Wanderers,Scotland,Premiership,Dundee United FC,0,False
+Kaito Chida,Centre-Back,30,€450k,Japan,J1 League,Tokyo Verdy,Japan,J1 League,Kashima Antlers,0,False
+Pedro Obiang,Central Midfield,33,€450k,Italy,Serie A,US Sassuolo,Italy,Serie B,AC Monza,0,False
+Marcus Antonsson,Centre-Forward,34,€450k,Australia,A-League Men,Western Sydney Wanderers,Sweden,Allsvenskan,IFK Värnamo,0,False
+Panagiotis Deligiannidis,Right-Back,28,€450k,Greece,Super League 1,Panserraikos,Greece,Super League 1,AE Larisa,0,False
+Mateo Karamatic,Centre-Back,23,€450k,Austria,Bundesliga,TSV Hartberg,United Arab Emirates,Without League,Al-Nasr SC (UAE),0,False
+Saeed Sadeghi,Right Winger,31,€450k,Iran,Persian Gulf Pro League,Persepolis FC,Iran,Persian Gulf Pro League,Foolad FC,0,False
+Mohammad Ghoreishi,Centre-Back,30,€450k,Iran,Persian Gulf Pro League,Zob Ahan Esfahan,Iran,Persian Gulf Pro League,Foolad FC,0,False
+Soulaiman El Amrani,Centre-Back,28,€450k,Morocco,Botola Pro Inwi,Olympique Safi,Morocco,Botola Pro Inwi,FUS Rabat,0,False
+Kacper Lukasiak,Attacking Midfield,21,€450k,Poland,Ekstraklasa,Pogon Szczecin,Poland,Ekstraklasa,GKS Katowice,0,False
+Israel Alba,Right-Back,30,€450k,Colombia,Liga Dimayor I,Asociación Deportivo Pasto,Colombia,Liga Dimayor I,Atlético Bucaramanga,0,False
+Carlos Jatobá,Central Midfield,29,€450k,Azerbaijan,Premyer Liqa,Araz-Nakhchivan ,"Korea, South",K League 1,Daegu FC,0,False
+In-gyun Kim,Left Winger,26,€450k,"Korea, South",K League 1,Daejeon Hana Citizen,"Korea, South",K League 1,Gimcheon Sangmu,0,True
+Nahúm Gómez,Right Winger,27,€450k,Mexico,Without League,Atlético La Paz,Nicaragua,Without League,Real Estelí FC,0,False
+Daiki Miya,Centre-Back,29,€450k,Japan,J1 League,Nagoya Grampus,Japan,J2 League,Hokkaido Consadole Sapporo,0,True
+Perotti,Centre-Forward,27,€450k,Poland,Ekstraklasa,Radomiak Radom,Brazil,Without League,Associação Chapecoense de Futebol,0,False
+Ramiro Cristóbal,Defensive Midfield,29,€450k,Ecuador,LigaPro Serie A,Mushuc Runa SC,Ecuador,LigaPro Serie A,Técnico Universitario,0,False
+Miguel Barbieri,Centre-Back,31,€450k,Argentina,Torneo Apertura,CA Rosario Central,Argentina,Torneo Apertura,Club Deportivo Riestra,0,False
+Timipere Johnson Eboh,Defensive Midfield,23,€450k,Greece,Super League 1,Asteras Aktor,Greece,Super League 1,AE Kifisias,0,False
+Kushtrim Shabani,Defensive Midfield,28,€450k,Kosovo,Superliga e Kosovës,SC Gjilani,Kosovo,Superliga e Kosovës,KF Llapi,0,False
+Ba-Muaka Simakala,Second Striker,28,€450k,Germany,3. Liga,VfL Osnabrück,Azerbaijan,Premyer Liqa,Araz-Nakhchivan ,0,False
+Ali Azadmanesh,Right-Back,30,€450k,Iran,Persian Gulf Pro League,Shams Azar Qazvin,Iran,Persian Gulf Pro League,Kheybar Khorramabad FC,0,False
+Balanta Jr.,Central Midfield,28,€450k,Portugal,Liga Portugal 2,SC União Torreense,Armenia,Without League,FC Ararat-Armenia ,0,False
+Carles Soria,Right-Back,28,€450k,Greece,Without League,PAS Lamia 1964,Greece,Super League 1,Volos NPS,0,False
+Lazaros Lamprou,Left Winger,27,€450k,Poland,Ekstraklasa,Raków Częstochowa,Greece,Super League 1,Volos NPS,0,False
+Mohamed Seha,Goalkeeper,24,€250k,Egypt,Without League,El Mokawloon SC,Egypt,Premier League,Al Ahly FC,440k,False
+Simone Ghidotti,Goalkeeper,25,€300k,Italy,Serie A,Como 1907,Italy,Without League,UC Sampdoria,400k,False
+Jacopo Sardo,Central Midfield,20,€400k,Germany,3. Liga,1.FC Saarbrücken,Italy,Serie B,AC Monza,350k,False
+Bradley Ibrahim,Defensive Midfield,20,€400k,Germany,2. Bundesliga,Hertha BSC,England,League One,Plymouth Argyle,300k,False
+Filip Spatenka,Centre-Forward,21,€400k,Czech Republic,Chance Liga,FK Dukla Prague,Czech Republic,Chance Liga,FC Slovan Liberec,200k,False
+Shane van Aarle,Centre-Back,19,€400k,Netherlands,Keuken Kampioen Divisie,FC Eindhoven,Italy,Without League,Juventus Next Gen,200k,False
+Jakub Budnicki,Centre-Back,23,€400k,Poland,Betclic 1 Liga,GKS Tychy,Poland,Ekstraklasa,Korona Kielce,140k,False
+Gaspar Gentile,Left Winger,30,€400k,Peru,Liga 1 Apertura,Club Cienciano,Peru,Liga 1 Apertura,Club Alianza Lima,130k,False
+Niklas Kolbe,Centre-Back,28,€400k,Germany,3. Liga,SSV Ulm 1846,Germany,2. Bundesliga,Hertha BSC,100k,False
+Pietro Cianci,Centre-Forward,29,€400k,Italy,Without League,Catania FC,Italy,Serie C-B,Ternana Calcio,100k,False
+Natan Dziegielewski,Attacking Midfield,20,€400k,Poland,Betclic 1 Liga,GKS Tychy,Poland,Ekstraklasa,Górnik Zabrze,23k,False
+Egor Noskov,Left-Back,22,€400k,Russia,Premier Liga,CSKA Moscow,Russia,1.Division,SKA Khabarovsk,15k,False
+Tom Baack,Defensive Midfield,26,€400k,Germany,3. Liga,SC Verl,Germany,2. Bundesliga,1.FC Nuremberg,0,False
+Fabio Torsiello,Centre-Forward,20,€400k,Germany,2. Bundesliga,SV Darmstadt 98,Germany,3. Liga,Alemannia Aachen,0,True
+Kelvin Boateng,Centre-Forward,25,€400k,Austria,2. Liga,First Vienna FC,Austria,Bundesliga,Austria Vienna,0,False
+Lukas Wallner,Centre-Back,22,€400k,Germany,Regionalliga Nord,Hannover 96 II,Germany,3. Liga,FC Hansa Rostock,0,False
+Konstantin Schopp,Centre-Back,19,€400k,Austria,2. Liga,SK Sturm Graz II,Germany,Bundesliga,1.FSV Mainz 05,0,False
+Jason Ceka,Right Winger,25,€400k,Germany,2. Bundesliga,1.FC Magdeburg,Germany,2. Bundesliga,SV 07 Elversberg,0,False
+Mathis Clairicia,Centre-Forward,22,€400k,France,Without League,LB Châteauroux,Germany,2. Bundesliga,VfL Bochum,0,False
+Ángel Baena,Right Winger,24,€400k,Poland,Betclic 1 Liga,Wisla Kraków,Poland,Ekstraklasa,Widzew Lodz,0,False
+Marcel Benger,Defensive Midfield,26,€400k,Germany,3. Liga,SC Verl,Germany,2. Bundesliga,Preußen Münster,0,False
+Dustin Forkel,Left Winger,20,€400k,Germany,2. Bundesliga,1.FC Nuremberg,Germany,3. Liga,SSV Jahn Regensburg,0,True
+Alexander Rossipal,Centre-Back,29,€400k,Germany,3. Liga,FC Hansa Rostock,Germany,2. Bundesliga,SG Dynamo Dresden,0,False
+Radoslav Kirilov,Left Winger,33,€400k,Bulgaria,efbet Liga,CSKA 1948,Bulgaria,efbet Liga,Levski Sofia,0,False
+Luka Lucic,Left-Back,30,€400k,Croatia,SuperSport HNL,Slaven Belupo Koprivnica,Poland,Ekstraklasa,Zaglebie Lubin,0,False
+Peter Kiedl,Centre-Forward,21,€400k,Austria,2. Liga,SK Sturm Graz II,Austria,Bundesliga,SV Ried,0,True
+Barnabás Nagy,Left-Back,24,€400k,Hungary,NB I.,Nyíregyháza Spartacus,Hungary,NB I.,Ferencvárosi TC,0,False
+Josias Lukembila,Left Winger,25,€400k,France,Ligue 1,Paris FC,Switzerland,Super League,FC Sion,0,False
+Richard Taylor,Centre-Back,24,€400k,Scotland,Premiership,St. Mirren FC,England,League One,Bolton Wanderers,0,False
+Stefan Skrbo,Left Winger,24,€400k,Austria,Bundesliga,WSG Tirol,Slovakia,Nike Liga,Spartak Trnava,0,False
+Gabriel Barbosa,Centre-Forward,26,€400k,Portugal,Liga Portugal 2,FC Penafiel,Poland,Ekstraklasa,Górnik Zabrze,0,False
+Bastien Donio,Defensive Midfield,19,€400k,France,Championnat National,Football Bourg-en-Bresse Péronnas 01,Poland,Ekstraklasa,Górnik Zabrze,0,False
+Ibrahim Mustapha,Centre-Forward,25,€400k,Austria,Bundesliga,LASK,Serbia,Super liga Srbije,FK Vojvodina Novi Sad,0,False
+Lennard Hens,Attacking Midfield,29,€400k,Belgium,Jupiler Pro League,FCV Dender EH,Belgium,Challenger Pro League,KV Kortrijk,0,False
+Danijel Sturm,Left Winger,26,€400k,Slovenia,Prva Liga,NK Domzale,Slovenia,Prva Liga,NK Celje,0,False
+Bassel Jradi,Attacking Midfield,31,€400k,Thailand,Thai League,True Bangkok United,Cyprus,Cyprus League,AEL Limassol,0,False
+Robinho,Right Winger,27,€400k,Portugal,Liga Portugal 2,FC Penafiel,Israel,Ligat ha'Al,Hapoel Haifa,0,False
+Callum Timmins,Central Midfield,25,€400k,Australia,A-League Men,Newcastle United Jets,Australia,A-League Men,Perth Glory,0,False
+Juan María Alcedo,Left-Back,24,€400k,Spain,LaLiga2,Albacete Balompié,Spain,LaLiga2,Córdoba CF,0,False
+Filip Taraba,Right-Back,19,€400k,Bosnia-Herzegovina,Without League,NK Siroki Brijeg,Croatia,SuperSport HNL,NK Istra 1961,0,False
+Kyohei Yoshino,Central Midfield,30,€400k,"Korea, South",K League 1,Daegu FC,Japan,J1 League,Cerezo Osaka,0,False
+Declan Frith,Left Winger,23,€400k,Switzerland,Super League,FC Thun,England,League One,Peterborough United,0,False
+Igor Obukhov,Goalkeeper,29,€400k,Russia,Without League,FC Khimki (-2025),Russia,1.Division,Fakel Voronezh,0,False
+Vinicius Gomes,Centre-Back,27,€400k,France,Championnat National,FC Villefranche-Beaujolais,France,Championnat National,SM Caen,0,False
+Maxime Etuin,Defensive Midfield,29,€400k,France,Championnat National,US Concarneau,France,Championnat National,SM Caen,0,False
+Leonel Montano,Left-Back,25,€400k,Denmark,1.Division,Esbjerg fB,Denmark,Superliga,Silkeborg IF,0,False
+Fraser Horsfall,Centre-Back,28,€400k,England,League One,Stockport County,England,League One,Blackpool FC,0,False
+Martín Fernández,Central Midfield,24,€400k,Uruguay,Liga AUF Intermedio,CA Boston River,Argentina,Torneo Apertura,CA Newell's Old Boys,0,False
+Samuel Lavrincik,Defensive Midfield,23,€400k,Slovakia,Nike Liga,MFK Ruzomberok,Czech Republic,Chance Liga,FK Jablonec,0,False
+Alain Ipiélé,Left Winger,27,€400k,France,Championnat National,FC Martigues,France,Championnat National,Valenciennes FC,0,False
+Pizzi,Attacking Midfield,35,€400k,Cyprus,Cyprus League,APOEL Nicosia,Portugal,Liga Portugal,GD Estoril Praia,0,False
+Tomas Huk,Centre-Back,30,€400k,Poland,Ekstraklasa,Piast Gliwice,Czech Republic,Chance Liga,SK Sigma Olomouc,0,False
+Kirill Malyarov,Right-Back,28,€400k,Russia,1.Division,Neftekhimik Nizhnekamsk,Russia,1.Division,Shinnik Yaroslavl,0,False
+Orest Lebedenko,Left-Back,26,€400k,Portugal,Liga Portugal 2,FC Vizela,Portugal,Liga Portugal,Vitória Guimarães SC,0,False
+Pablo Santiago,Left Winger,24,€400k,Spain,Without League,Barakaldo CF ,Spain,LaLiga2,CD Castellón,0,False
+Romain Matthys,Goalkeeper,26,€400k,Netherlands,Keuken Kampioen Divisie,MVV Maastricht,Spain,LaLiga2,CD Castellón,0,False
+Damian Kelvin,Centre-Back,23,€400k,Switzerland,Promotion League,FC Biel-Bienne 1896,Switzerland,Super League,FC Lugano,0,False
+Caolan Boyd-Munce,Central Midfield,25,€400k,Scotland,Premiership,St. Mirren FC,England,League One,Wycombe Wanderers,0,False
+Ahmed Alaaeldin,Centre-Forward,32,€400k,Qatar,Without League,Al-Gharafa SC,Qatar,Without League,Al-Rayyan SC,0,False
+Younes Rached,Left Winger,26,€400k,Tunisia,Ligue I Pro,ES Zarzis,Tunisia,Ligue I Pro,Esperance Tunis,0,False
+Brent Gabriël,Goalkeeper,26,€400k,Belgium,Challenger Pro League,KSC Lokeren-Temse,Belgium,Jupiler Pro League,Zulte Waregem,0,False
+Milosz Trojak,Centre-Back,31,€400k,Poland,Ekstraklasa,Korona Kielce,"Korea, South",K League 1,Ulsan HD FC,0,False
+Denis Fomin,Centre-Back,29,€400k,Russia,1.Division,Chernomorets Novorossijsk,Russia,1.Division,Rotor Volgograd,0,False
+Matt Smith,Defensive Midfield,25,€400k,Scotland,Championship,St. Johnstone FC,Wales,League Two,Newport County,0,False
+Brayan Carabalí,Centre-Back,26,€400k,Colombia,Liga Dimayor I,Asociación Deportivo Pasto,Israel,Ligat ha'Al,Beitar Jerusalem,0,False
+Ryan Sweeney,Centre-Back,28,€400k,England,League One,Burton Albion,England,League One,Mansfield Town,0,False
+Théo Epailly,Left Winger,26,€400k,France,Championnat National,US Boulogne,Belgium,Jupiler Pro League,RAAL La Louvière ,0,False
+Luis Castillo,Left-Back,26,€400k,Ecuador,LigaPro Serie A,CD Universidad Católica,Ecuador,LigaPro Serie A,CS Emelec,0,False
+Frederik Christensen,Centre-Forward,24,€400k,Norway,Eliteserien,Tromsø IL,Germany,3. Liga,FC Ingolstadt 04,0,True
+Ștefan Bană,Right Winger,20,€400k,Romania,SuperLiga,CS Universitatea Craiova,Romania,SuperLiga,SC Otelul Galati,0,False
+Jakub Klima,Centre-Back,26,€400k,Czech Republic,Chance Liga,FC Hradec Kralove,Czech Republic,ChNL,FC Zbrojovka Brno,0,False
+Adrián Dalmau,Centre-Forward,31,€400k,Poland,Ekstraklasa,Korona Kielce,Poland,Ekstraklasa,Piast Gliwice,0,False
+Hernandes,Left Winger,25,€400k,"Korea, South",K League 1,Jeonbuk Hyundai Motors,"Korea, South",K League 1,Daejeon Hana Citizen,0,False
+Motoki Nagakura,Centre-Forward,25,€400k,Japan,J1 League,Urawa Red Diamonds,Japan,J1 League,FC Tokyo,0,True
+Yusuke Segawa,Left Winger,31,€400k,Japan,J1 League,Kawasaki Frontale,Japan,J1 League,Kashiwa Reysol,0,False
+Luis López,Centre-Back,31,€400k,Costa Rica,Without League,Santa Ana FC,Costa Rica,Primera División Apertura,Municipal Pérez Zeledón,0,False
+Marquinho,Attacking Midfield,23,€400k,Portugal,Liga Portugal 2,Académico Viseu FC,Brazil,Campeonato Paulista,Botafogo FC,0,True
+Martin Sorakov,Centre-Forward,21,€400k,Bulgaria,efbet Liga,Slavia Sofia,Bulgaria,Vtora Liga,CSKA-Sofia II,0,False
+Luka Cumic,Centre-Forward,24,€400k,Serbia,Prva liga Srbije,FK Trayal Kruševac,Bosnia-Herzegovina,Without League,FK Radnik Bijeljina,0,False
+Federico Álvarez,Left-Back,30,€400k,Greece,Super League 1,Asteras Aktor,Argentina,Torneo Apertura,Club Atlético Tigre,0,False
+Dane Ingham,Right-Back,26,€400k,Australia,A-League Men,Newcastle United Jets,Malaysia,Super League,Sabah FC,0,False
+Mário Sérgio,Centre-Forward,29,€400k,Brazil,Série B,Associação Chapecoense de Futebol,Japan,J2 League,Hokkaido Consadole Sapporo,0,False
+Domantas Šimkus,Central Midfield,29,€400k,Lithuania,A Lyga,FA Šiauliai,Malta,Without League,Hamrun Spartans,0,False
+Joao Maleck,Centre-Forward,26,€400k,Mexico,Without League,Club Atlético Morelia,Costa Rica,Primera División Apertura,Guadalupe FC,0,False
+Larry Azouni,Central Midfield,31,€400k,Tunisia,Ligue I Pro,Esperance Tunis,United Arab Emirates,Without League,Dibba Al-Hisn SC,0,False
+Viktor Boone,Centre-Back,27,€400k,Belgium,Challenger Pro League,K Lierse SK,Belgium,Challenger Pro League,SK Beveren,0,False
+Aymane Majid,Goalkeeper,30,€400k,Morocco,Botola Pro Inwi,FUS Rabat,Morocco,Botola Pro Inwi,COD Meknès,0,False
+Xian Emmers,Attacking Midfield,25,€400k,Romania,SuperLiga,FC Rapid 1923,United States,USLC,Phoenix Rising FC,0,False
+Jeremy Canela,Right Winger,27,€400k,Peru,Liga 1 Apertura,Alianza Atlético Sullana,Peru,Liga 1 Apertura,Alianza Universidad,0,False
+Birsent Karagaren,Right Winger,32,€400k,Bulgaria,efbet Liga,CSKA 1948,Bulgaria,efbet Liga,Arda Kardzhali,0,False
+Georgi Nikolov,Centre-Forward,22,€400k,Bulgaria,efbet Liga,Botev Plovdiv,Bulgaria,efbet Liga,Arda Kardzhali,0,False
+Caio Ferreira,Centre-Forward,24,€400k,Moldova,Without League,FC Balti,Romania,SuperLiga,ACSC FC Arges,0,False
+Simon Buggea,Centre-Forward,18,€400k,Belgium,Challenger Pro League,RFC Seraing,Belgium,Challenger Pro League,Jong KAA Gent,0,False
+Rafael Arace,Right Winger,30,€400k,Chile,Liga de Ascenso,CD Cobreloa,Venezuela,Liga FUTVE Apertura,Academia Puerto Cabello,0,False
+Alan Cariús,Second Striker,28,€400k,Saudi Arabia,Saudi First Division League,Al-Adalah FC,"Korea, South",K League 2,Seoul E-Land,0,False
+Ousseynou Gueye,Right Winger,30,€400k,Jordan,Without League,Al-Wehdat SC,Iran,Persian Gulf Pro League,Kheybar Khorramabad FC,0,False
+Paul Ayongo,Centre-Forward,28,€400k,Portugal,Liga Portugal 2,GD Chaves,Armenia,Without League,FC Ararat-Armenia ,0,False
+Welton,Attacking Midfield,26,€400k,Portugal,Without League,Berço SC,Armenia,Without League,FC Ararat-Armenia ,0,True
+Christian Gomis,Centre-Back,26,€400k,Thailand,Thai League,BG Pathum United,Thailand,Thai League,Uthai Thani FC,0,False
+Dragoș Albu,Defensive Midfield,24,€400k,Romania,Liga 2,FC U Craiova 1948,Romania,SuperLiga,FC Hermannstadt,0,False
+Rafail Mamas,Defensive Midfield,24,€375k,Cyprus,Cyprus League,AEL Limassol,Bosnia-Herzegovina,Without League,FK Sarajevo,200k,False
+János Szépe,Centre-Back,29,€375k,Hungary,NB I.,ETO FC Győr ,Hungary,NB I.,MTK Budapest,0,False
+Assaf Tzur,Goalkeeper,26,€375k,Israel,Ligat ha'Al,Ironi Kiryat Shmona,Israel,Ligat ha'Al,Hapoel Tel Aviv,0,False
+Fraser Murray,Left Midfield,26,€375k,Scotland,Premiership,Kilmarnock FC,England,League One,Wigan Athletic,0,False
+Ismail Mihrab,Right Winger,28,€375k,Morocco,Botola Pro Inwi,COD Meknès,Morocco,Botola Pro Inwi,KACM Marrakech,0,False
+Ehsan Pahlevan,Left Winger,31,€375k,Iran,Persian Gulf Pro League,Foolad FC,Iran,Persian Gulf Pro League,Zob Ahan Esfahan,0,False
+Hyun-woo Kim,Centre-Back,26,€375k,"Korea, South",K League 1,Daejeon Hana Citizen,"Korea, South",K League 1,Gimcheon Sangmu,0,True
+Ronnie Fernández,Centre-Forward,34,€375k,Malaysia,Super League,Selangor FC,Chile,Liga Primera,CD Palestino,0,False
+Samuel Gomez Van Hoogen,Centre-Back,19,€300k,Netherlands,Keuken Kampioen Divisie,PSV Eindhoven U21,Belgium,Challenger Pro League,Club NXT,355k,False
+Thievy Bifouma,Left Winger,33,€350k,Iran,Persian Gulf Pro League,Esteghlal Khuzestan,Iran,Persian Gulf Pro League,Persepolis FC,350k,False
+Simone Mazzocchi,Centre-Forward,26,€350k,Italy,Without League,Atalanta U23,Italy,Without League,Cosenza Calcio,300k,False
+Bryang Kayo,Central Midfield,22,€350k,Germany,3. Liga,FC Ingolstadt 04,Germany,3. Liga,VfL Osnabrück,150k,False
+Peter Therkildsen,Right-Back,27,€350k,Sweden,Allsvenskan,Djurgårdens IF,Poland,Ekstraklasa,Widzew Lodz,100k,False
+Chipyoka Songa,Attacking Midfield,20,€350k,Zambia,Without League,ZESCO United FC,Israel,Ligat ha'Al,Hapoel Petah Tikva,90k,False
+Sofian Bahloul,Right Winger,25,€350k,Austria,Bundesliga,SCR Altach,Switzerland,Challenge League,FC Aarau,20k,False
+Alperen Babacan,Centre-Back,27,€350k,Türkiye,Süper Lig,Genclerbirligi Ankara,Türkiye,Without League,Bursaspor,0,False
+Emrehan Gedikli,Centre-Forward,22,€350k,Türkiye,Süper Lig,Konyaspor,Türkiye,Without League,Bursaspor,0,False
+David Heindl,Centre-Back,21,€350k,Austria,2. Liga,SV Kapfenberg,Germany,Regionalliga Bayern,FC Bayern Munich II,0,False
+Florian Carstens,Centre-Back,26,€350k,Germany,3. Liga,SV Wehen Wiesbaden,Germany,3. Liga,FC Hansa Rostock,0,False
+Kenan Fatkic,Defensive Midfield,27,€350k,Switzerland,Challenge League,Neuchâtel Xamax FCS,Germany,3. Liga,FC Hansa Rostock,0,False
+Maximilian Krauß,Right Winger,28,€350k,Germany,3. Liga,FC Energie Cottbus,Germany,3. Liga,FC Hansa Rostock,0,False
+Bastian Allgeier,Right Midfield,23,€350k,Germany,3. Liga,SSV Ulm 1846,Germany,2. Bundesliga,Hannover 96,0,False
+Michael Kostka,Right-Back,21,€350k,Poland,Betclic 1 Liga,Miedz Legnica,Germany,3. Liga,Rot-Weiss Essen,0,False
+Pelle Boevink,Goalkeeper,27,€350k,Germany,3. Liga,FC Ingolstadt 04,Germany,2. Bundesliga,SpVgg Greuther Fürth,0,False
+Lars Lokotsch,Centre-Forward,29,€350k,Germany,3. Liga,SC Verl,Germany,2. Bundesliga,Preußen Münster,0,False
+Philipp Schulze,Goalkeeper,22,€350k,Germany,Bundesliga,VfL Wolfsburg,Germany,3. Liga,SC Verl,0,False
+Alessio Besio,Centre-Forward,21,€350k,Germany,Regionalliga Südwest,SC Freiburg II,Germany,3. Liga,SC Verl,0,True
+Eric Uhlmann,Centre-Back,22,€350k,Germany,Regionalliga Nord,Hannover 96 II,Germany,3. Liga,FC Erzgebirge Aue,0,False
+Robin Kalem,Right Winger,22,€350k,Germany,Regionalliga Nord,Hannover 96 II,Germany,3. Liga,SV Wehen Wiesbaden,0,False
+Simon Stehle,Right Winger,23,€350k,Germany,3. Liga,1.FC Saarbrücken,Germany,3. Liga,SV Wehen Wiesbaden,0,False
+John Mary,Centre-Forward,32,€350k,Serbia,Super liga Srbije,FK Novi Pazar,Serbia,Super liga Srbije,FK Vojvodina Novi Sad,0,False
+Kevin-Prince Milla,Centre-Forward,21,€350k,Austria,Bundesliga,Grazer AK 1902,Czech Republic,Chance Liga,FK Dukla Prague,0,False
+Jens Toornstra,Attacking Midfield,36,€350k,Netherlands,Eredivisie,FC Utrecht,Netherlands,Eredivisie,Sparta Rotterdam,0,False
+Cristhian Loor,Goalkeeper,19,€350k,Ecuador,LigaPro Serie A,Independiente del Valle,Brazil,Série A,Botafogo de Futebol e Regatas,0,False
+Vlasiy Sinyavskiy,Left Winger,28,€350k,Czech Republic,Chance Liga,1.FC Slovacko,Czech Republic,Chance Liga,Bohemians Prague 1905,0,False
+Enzo Cornelisse,Defensive Midfield,23,€350k,Netherlands,Keuken Kampioen Divisie,Vitesse Arnhem,Netherlands,Keuken Kampioen Divisie,Almere City FC,0,False
+Marko Dijakovic,Centre-Back,23,€350k,Poland,Betclic 1 Liga,GKS Tychy,Poland,Betclic 1 Liga,Slask Wroclaw,0,False
+Isaac Tshipamba,Centre-Forward,24,€350k,France,Championnat National,Quevilly - Rouen Métropole,Slovenia,Prva Liga,NK Maribor,0,False
+Gyan de Regt,Left Winger,21,€350k,Netherlands,Keuken Kampioen Divisie,Vitesse Arnhem,Netherlands,Eredivisie,Excelsior Rotterdam,0,False
+Din Alomerovic,Left-Back,28,€350k,North Macedonia,Prva liga,Rabotnicki Skopje,Romania,SuperLiga,UTA Arad,0,False
+Sam Sutton,Left-Back,23,€350k,New Zealand,A-League Men,Wellington Phoenix,Australia,A-League Men,Perth Glory,0,False
+Lukas Fadinger,Attacking Midfield,24,€350k,Austria,Bundesliga,SCR Altach,Scotland,Premiership,Motherwell FC,0,False
+Jordan McGhee,Centre-Back,28,€350k,Scotland,Premiership,Dundee FC,Scotland,Premiership,Motherwell FC,0,False
+Frederik Børsting,Right Winger,30,€350k,Denmark,2.Division,Vendsyssel FF,Denmark,1.Division,Aalborg BK,0,False
+Facundo Castro,Centre-Forward,29,€350k,Peru,Liga 1 Apertura,FBC Melgar,Argentina,Primera Nacional,CA Colón,0,False
+Oscar Uddenäs,Right Winger,22,€350k,Netherlands,Eredivisie,Excelsior Rotterdam,Sweden,Allsvenskan,Östers IF,0,False
+Mathieu Mion,Left-Back,24,€350k,France,Championnat National,FC Rouen 1899,France,Ligue 2,Grenoble Foot 38,0,False
+Christos Talichmanidis,Goalkeeper,24,€350k,Greece,Super League 1,PAOK Thessaloniki,Cyprus,Cyprus League,Olympiakos Nicosia,0,False
+Teddy Averlant,Right Midfield,25,€350k,France,Championnat National,US Boulogne,France,Ligue 2,Amiens SC,0,False
+Mabrouk Rouaï,Defensive Midfield,24,€350k,France,Championnat National,Aubagne FC,France,Championnat National,Valenciennes FC,0,False
+Julian Keiblinger,Right Midfield,24,€350k,Austria,2. Liga,SKN St. Pölten,Poland,Betclic 1 Liga,GKS Tychy,0,False
+Leon-Oumar Wechsel,Goalkeeper,20,€350k,Germany,2. Bundesliga,Hannover 96,Poland,Betclic 1 Liga,GKS Tychy,0,True
+Petros Ioannou,Right-Back,26,€350k,Cyprus,Cyprus League,Ethnikos Achnas,Cyprus,Cyprus League,AEK Larnaca,0,False
+Tihomir Kostadinov,Defensive Midfield,29,€350k,Poland,Ekstraklasa,Piast Gliwice,Czech Republic,Chance Liga,SK Sigma Olomouc,0,False
+Ilya Porokhov,Centre-Forward,24,€350k,Russia,Without League,FC Khimki (-2025),Russia,1.Division,Shinnik Yaroslavl,0,False
+Kristian Kirkegaard,Right Winger,27,€350k,Denmark,Superliga,Vejle Boldklub,Denmark,1.Division,AC Horsens,0,False
+Frederik Brandhof,Central Midfield,28,€350k,Denmark,Superliga,Aarhus GF,Denmark,1.Division,AC Horsens,0,False
+Sidny Cabral,Right-Back,22,€350k,Germany,3. Liga,FC Viktoria Köln,Portugal,Liga Portugal,CF Estrela Amadora,0,False
+Glenn Middleton,Left Winger,25,€350k,Scotland,Premiership,Dundee United FC,England,League One,Doncaster Rovers,0,False
+Thimothée Lo-Tutala,Goalkeeper,22,€350k,England,Championship,Hull City,England,League One,Doncaster Rovers,0,True
+Dan Casey,Centre-Back,27,€350k,Scotland,Premiership,Motherwell FC,England,League One,Wycombe Wanderers,0,False
+Fadel Gobitaka,Left Winger,27,€350k,Belgium,Jupiler Pro League,RAAL La Louvière ,Belgium,Challenger Pro League,RFC Lüttich,0,False
+Patrick Greil,Attacking Midfield,28,€350k,Germany,Regionalliga Südwest,SV Sandhausen,Austria,Bundesliga,SCR Altach,0,False
+Nikita Plotnikov,Defensive Midfield,22,€350k,Russia,Premier Liga,FC Krasnodar,Russia,1.Division,Rotor Volgograd,0,False
+Mario Valero,Goalkeeper,29,€350k,Ecuador,LigaPro Serie A,Manta FC,Ecuador,LigaPro Serie A,CS Emelec,0,False
+Jan Gorenc,Centre-Back,25,€350k,Belgium,Challenger Pro League,KAS Eupen,Slovenia,Prva Liga,NK Olimpija Ljubljana,0,False
+Ovadia Darwish,Right-Back,26,€350k,Israel,Ligat ha'Al,Ihud Bnei Sakhnin,Israel,Ligat ha'Al,Ironi Kiryat Shmona,0,False
+Maciej Rosolek,Centre-Forward,23,€350k,Poland,Ekstraklasa,Piast Gliwice,Poland,Ekstraklasa,GKS Katowice,0,False
+Marcel Wedrychowski,Right Winger,23,€350k,Poland,Ekstraklasa,Pogon Szczecin,Poland,Ekstraklasa,GKS Katowice,0,False
+Deok-geun Lim,Centre-Back,25,€350k,"Korea, South",K League 1,Daejeon Hana Citizen,"Korea, South",K League 1,Gimcheon Sangmu,0,True
+Min-kyu Kim,Centre-Back,27,€350k,"Korea, South",K League 2,Seoul E-Land,"Korea, South",K League 1,Gimcheon Sangmu,0,True
+Mésaque Djú,Right Winger,26,€350k,Portugal,Without League,UD Oliveirense,Portugal,Liga Portugal 2,Portimonense SC,0,False
+Ivan Arsov,Centre-Back,24,€350k,Bulgaria,Vtora Liga,Marek Dupnitsa,Bulgaria,Vtora Liga,Vihren Sandanski,0,False
+Crystopher,Central Midfield,27,€350k,Brazil,Without League,Boavista SC,Brazil,Copa do Nordeste,Clube de Regatas Brasil (AL),0,True
+Amine Haboubi,Centre-Forward,23,€350k,Tunisia,Ligue I Pro,CS Sfaxien,Luxembourg,BGL Ligue,FC Differdange 03,0,False
+Diego Ledesma,Centre-Forward,31,€350k,Honduras,Liga Nacional Clausura,CD Motagua Tegucigalpa,Argentina,Primera Nacional,CA Central Norte,0,False
+Pablo González,Attacking Midfield,28,€350k,Uruguay,Segunda División,Albion FC,Ecuador,LigaPro Serie A,CD Macará,0,False
+Stefan Peric,Centre-Back,28,€350k,Croatia,Without League,HNK Sibenik,Croatia,SuperSport HNL,HNK Gorica,0,False
+Madison Julio,Defensive Midfield,27,€350k,Ecuador,LigaPro Serie A,LDU Quito,Ecuador,LigaPro Serie A,Vinotinto FC,0,True
+Asen Georgiev,Centre-Back,31,€350k,Bulgaria,efbet Liga,CSKA 1948,Bulgaria,Vtora Liga,Yantra Gabrovo,0,False
+Ronaldo Deaconu,Attacking Midfield,28,€350k,Hungary,NB I.,Nyíregyháza Spartacus,Romania,SuperLiga,AFC Unirea 04 Slobozia,0,False
+Diamantis Chouchoumis,Left-Back,30,€350k,Greece,Super League 1,Asteras Aktor,Greece,Super League 1,AE Kifisias,0,False
+Sang-min Sim,Left-Back,32,€350k,"Korea, South",K League 1,Ulsan HD FC,"Korea, South",K League 1,Gwangju FC,0,True
+Kosta Barbarouses,Centre-Forward,35,€350k,New Zealand,A-League Men,Wellington Phoenix,Australia,A-League Men,Western Sydney Wanderers,0,False
+Bence Végh,Defensive Midfield,28,€350k,Hungary,NB I.,MTK Budapest,Romania,SuperLiga,AFK Csikszereda Miercurea Ciuc,0,False
+Yoan Baurenski,Defensive Midfield,23,€350k,Bulgaria,efbet Liga,Spartak Varna,Bulgaria,efbet Liga,Septemvri Sofia,0,False
+Tudor Băluță,Defensive Midfield,26,€350k,Poland,Betclic 1 Liga,Slask Wroclaw,Romania,SuperLiga,CS Universitatea Craiova,0,False
+Leard Sadriu,Centre-Back,24,€350k,Slovenia,Prva Liga,NS Mura,Romania,SuperLiga,ACSC FC Arges,0,False
+Callum Talbot,Right-Back,24,€350k,Australia,A-League Men,Melbourne City FC,Australia,A-League Men,Macarthur FC,0,False
+Mohammed Al-Owais,Goalkeeper,33,€350k,Saudi Arabia,Without League,Al-Hilal SFC,Saudi Arabia,Without League,Al-Ula FC,0,False
+Konstantinos Sergiou,Right-Back,24,€325k,Cyprus,Without League,Nea Salamina Famagusta,Cyprus,Cyprus League,Anorthosis Famagusta,30k,True
+David Kopacz,Right Midfield,26,€325k,Germany,3. Liga,FC Ingolstadt 04,Germany,3. Liga,VfL Osnabrück,0,False
+Itamar Noy,Attacking Midfield,24,€325k,Israel,Ligat ha'Al,Hapoel Haifa,Israel,Ligat ha'Al,Maccabi Tel Aviv,0,False
+Léo Gomes,Central Midfield,28,€325k,Japan,J2 League,Júbilo Iwata,Japan,J1 League,Kyoto Sanga,0,False
+Léo Seydoux,Right-Back,27,€325k,Netherlands,Keuken Kampioen Divisie,FC Dordrecht,Switzerland,Challenge League,Neuchâtel Xamax FCS,0,False
+Gethin Jones,Right-Back,29,€325k,England,League One,Bolton Wanderers,England,League Two,Milton Keynes Dons,0,False
+Hamdi Namani,Defensive Midfield,30,€325k,Kosovo,Superliga e Kosovës,KF Llapi,Kosovo,Superliga e Kosovës,FC Prishtina,0,False
+Valmir Veliu,Left Winger,25,€325k,Kosovo,Superliga e Kosovës,KF Llapi,Kosovo,Superliga e Kosovës,FC Prishtina,0,False
+Jurguens Montenegro,Centre-Forward,24,€325k,Costa Rica,Primera División Apertura,AD Municipal Liberia,Costa Rica,Primera División Apertura,CS Herediano,0,False
+Bahaa Mamdouh,Centre-Back,26,€325k,Qatar,Without League,Qatar SC,Qatar,Without League,Al-Rayyan SC,0,False
+Simranjit Thandi,Right-Back,25,€325k,Cyprus,Cyprus League,Enosis Neon Paralimniou,Cyprus,Cyprus League,Anorthosis Famagusta,0,False
+Bojan Sankovic,Defensive Midfield,31,€325k,Hungary,NB I.,Zalaegerszegi TE FC,Hungary,NB I.,Nyíregyháza Spartacus,0,False
+Jin-su Seo,Centre-Forward,24,€325k,"Korea, South",K League 1,Jeju SK,"Korea, South",K League 1,Daejeon Hana Citizen,0,False
+Kyeong-hyeon Min,Central Midfield,23,€325k,"Korea, South",K League 2,Incheon United,"Korea, South",K League 1,Gimcheon Sangmu,0,True
+Mohammad Al-Hallaq,Right Winger,26,€325k,Bahrain,Without League,Al-Riffa SC,Jordan,Without League,Al-Faisaly SC,0,False
+Kastriot Selmani,Right Winger,25,€325k,Kosovo,Superliga e Kosovës,FC Drita,Albania,Kategoria Superiore,KF Egnatia,0,False
+Armel Zohouri,Right-Back,24,€325k,Moldova,Without League,FC Sheriff Tiraspol,Georgia,Erovnuli Liga,Iberia 1999 Tbilisi,0,False
+Yanniel Hernández,Left-Back,27,€325k,Venezuela,Liga FUTVE 2,Angostura FC,Venezuela,Liga FUTVE Apertura,Academia Puerto Cabello,0,True
+Jorge Pereyra Díaz,Centre-Forward,34,€325k,India,Indian Super League,Bengaluru FC,India,Indian Super League,Mumbai City FC,0,False
+Mohammadhossein Sadeghi,Left Winger,21,€200k,Iran,Azadegan League,Havadar SC,Iran,Persian Gulf Pro League,Persepolis FC,320k,False
+David Ludvicek,Left-Back,23,€300k,Czech Republic,Chance Liga,FK Dukla Prague,Czech Republic,Chance Liga,FC Hradec Kralove,280k,False
+Sacha Marloye,Right-Back,17,€300k,Belgium,Challenger Pro League,RFC Seraing,Belgium,Challenger Pro League,Club NXT,185k,False
+Kingsley Gyamfi,Centre-Back,21,€300k,Sweden,Allsvenskan,Hammarby IF,Sweden,Allsvenskan,Östers IF,180k,False
+Rayan Buifrahi,Left Winger,20,€300k,Netherlands,Keuken Kampioen Divisie,MVV Maastricht,Belgium,Challenger Pro League,Club NXT,100k,False
+Nuri Abdokov,Attacking Midfield,24,€300k,Russia,1.Division,Neftekhimik Nizhnekamsk,Russia,1.Division,Fakel Voronezh,70k,False
+Rihards Matrevics,Goalkeeper,26,€300k,Latvia,Virsliga,FK Auda,Czech Republic,Chance Liga,FK Dukla Prague,50k,False
+Jeremias Lorch,Centre-Back,29,€300k,Germany,Regionalliga Südwest,SV Sandhausen,Germany,3. Liga,Alemannia Aachen,0,False
+Leon Reichardt,Centre-Back,21,€300k,Germany,3. Liga,VfB Stuttgart II,Germany,3. Liga,FC Hansa Rostock,0,False
+Ben Westermeier,Defensive Midfield,22,€300k,Germany,Regionalliga Nord,Hannover 96 II,Germany,3. Liga,SSV Ulm 1846,0,False
+Marcel Wenig,Attacking Midfield,21,€300k,Germany,Hessenliga,Eintracht Frankfurt II,Germany,3. Liga,SSV Ulm 1846,0,False
+Antoni Klukowski,Right Winger,18,€300k,Poland,Ekstraklasa,Pogon Szczecin,Poland,Ekstraklasa,Widzew Lodz,0,False
+Niklas May,Left-Back,23,€300k,Germany,3. Liga,FC Viktoria Köln,Germany,3. Liga,SV Wehen Wiesbaden,0,False
+Nicolas Binder,Centre-Forward,23,€300k,Austria,2. Liga,SK Austria Klagenfurt,Netherlands,Keuken Kampioen Divisie,SC Cambuur Leeuwarden,0,False
+Jorn Berkhout,Centre-Back,23,€300k,Netherlands,Keuken Kampioen Divisie,AZ Alkmaar U21,Netherlands,Keuken Kampioen Divisie,SC Cambuur Leeuwarden,0,False
+Omar Sijaric,Right Winger,23,€300k,Germany,3. Liga,FC Erzgebirge Aue,Croatia,SuperSport HNL,HNK Rijeka,0,False
+Malik Sawadogo,Left-Back,21,€300k,Switzerland,Super League,Servette FC,Liechtenstein,Challenge League,FC Vaduz,0,False
+Marco Tol,Centre-Back,27,€300k,Portugal,Liga Portugal 2,FC Vizela,Netherlands,Keuken Kampioen Divisie,Roda JC Kerkrade,0,False
+Patrick Nwadike,Centre-Back,26,€300k,Sweden,Allsvenskan,IK Sirius,Slovakia,Nike Liga,Spartak Trnava,0,False
+Julius Ertlthaler,Attacking Midfield,28,€300k,Poland,Betclic 1 Liga,GKS Tychy,Poland,Betclic 1 Liga,Wisla Kraków,0,False
+Morgan Brown,Defensive Midfield,25,€300k,Cyprus,Cyprus League,Aris Limassol,Cyprus,Cyprus League,Apollon Limassol,0,False
+Andreas Siikkis,Right-Back,23,€300k,Cyprus,Cyprus League,Omonia Aradippou,Cyprus,Cyprus League,Apollon Limassol,0,False
+Mikkel Duelund,Attacking Midfield,28,€300k,Denmark,Superliga,Aarhus GF,Denmark,Superliga,Vejle Boldklub,0,False
+Imourane Hassane,Defensive Midfield,22,€300k,Benin,Without League,Loto-Popo FC,Switzerland,Super League,Grasshopper Club Zurich,0,False
+Marcos Fernández,Centre-Forward,22,€300k,Spain,Without League,Betis Deportivo Balompié,Spain,LaLiga,RCD Espanyol Barcelona,0,False
+Benson Sakala,Defensive Midfield,28,€300k,Czech Republic,Chance Liga,FK Mlada Boleslav,Czech Republic,Chance Liga,Bohemians Prague 1905,0,False
+Julien Masson,Defensive Midfield,27,€300k,France,Championnat National,Valenciennes FC,France,Championnat National,FC Sochaux-Montbéliard,0,False
+Nicolás Marotta,Centre-Back,28,€300k,Greece,Without League,PAE Chania,Paraguay,Primera División Apertura,Atlético Tembetary,0,False
+Dmytro Pospelov,Centre-Back,33,€300k,Romania,SuperLiga,AFC Unirea 04 Slobozia,Romania,SuperLiga,UTA Arad,0,False
+Rodri Alonso,Central Midfield,22,€300k,Spain,Without League,Villarreal CF B,Portugal,Liga Portugal,Moreirense FC,0,False
+Álvaro Martínez,Left-Back,23,€300k,Spain,LaLiga2,Cultural Leonesa,Portugal,Liga Portugal,Moreirense FC,0,False
+Nathaniel Méndez-Laing,Right Winger,33,€300k,England,Championship,Derby County,England,League Two,Milton Keynes Dons,0,False
+Rushian Hepburn-Murphy,Centre-Forward,26,€300k,England,League Two,Crawley Town,England,League Two,Milton Keynes Dons,0,False
+Adrián Fuentes,Centre-Forward,28,€300k,Spain,Without League,SD Tarazona,Spain,LaLiga2,Córdoba CF,0,False
+Doron Leidner,Left-Back,23,€300k,Greece,Super League 1,Olympiacos Piraeus,Israel,Ligat ha'Al,Hapoel Tel Aviv,0,True
+Joe Wright,Centre-Back,30,€300k,Scotland,Premiership,Kilmarnock FC,England,League One,Bradford City,0,False
+Josh Neufville,Right Midfield,24,€300k,England,League One,AFC Wimbledon,England,League One,Bradford City,0,False
+Simone Romagnoli,Centre-Back,35,€300k,Italy,Serie B,Frosinone Calcio,Italy,Without League,UC Sampdoria,0,False
+Léandro Morante,Centre-Back,28,€300k,France,Championnat National,FC Martigues,France,Championnat National,SM Caen,0,False
+Imran Fetai,Centre-Back,22,€300k,North Macedonia,Without League,Besa Dobri Dol,North Macedonia,Prva liga,Shkendija Tetovo,0,False
+Endrit Krasniqi,Attacking Midfield,30,€300k,Kosovo,Without League,FC Suhareka,North Macedonia,Prva liga,Shkendija Tetovo,0,False
+Gil Van Moerzeke,Centre-Forward,27,€300k,Belgium,Challenger Pro League,KSC Lokeren-Temse,Belgium,2de Nationale VV A,FC Lebbeke,0,False
+Dilan Markanday,Right Winger,23,€300k,England,Championship,Blackburn Rovers,England,League Two,Chesterfield FC,0,False
+Shane Blaney,Centre-Back,26,€300k,Scotland,Premiership,Motherwell FC,Scotland,Premiership,Livingston FC,0,False
+Ivan Delic,Centre-Forward,26,€300k,Croatia,Without League,HNK Sibenik,Bosnia-Herzegovina,Without League,NK Siroki Brijeg,0,False
+Jack Burroughs,Right-Back,24,€300k,England,Championship,Coventry City,England,League One,Northampton Town,0,False
+Michal Fasko,Attacking Midfield,30,€300k,Slovakia,Nike Liga,FC Kosice,Slovakia,Nike Liga,MSK Zilina,0,False
+Enzo Espinoza,Left-Back,24,€300k,Bulgaria,efbet Liga,Beroe Stara Zagora,Bulgaria,efbet Liga,Lokomotiv Plovdiv,0,False
+Jamie Paterson,Attacking Midfield,33,€300k,England,Championship,Coventry City,England,League One,Plymouth Argyle,0,False
+Matus Hruska,Goalkeeper,30,€300k,Czech Republic,Chance Liga,FK Dukla Prague,Czech Republic,Chance Liga,SK Sigma Olomouc,0,False
+Niklas Szerencsi,Centre-Back,25,€300k,Austria,2. Liga,SK Austria Klagenfurt,Austria,2. Liga,First Vienna FC,0,False
+John Batigi,Left Winger,19,€300k,Bulgaria,efbet Liga,Botev Plovdiv,Denmark,1.Division,AC Horsens,0,False
+Anthony Carter,Centre-Forward,30,€300k,Portugal,Liga Portugal,FC Alverca,Portugal,Liga Portugal,CD Santa Clara,0,False
+Josip Pejic,Left Winger,23,€300k,Croatia,Without League,HNK Cibalia Vinkovci,Bosnia-Herzegovina,Without League,FK Zeljeznicar Sarajevo,0,False
+Benedykt Piotrowski,Defensive Midfield,19,€300k,Poland,Betclic 1 Liga,Stal Rzeszow,Poland,Betclic 1 Liga,Polonia Warsaw,0,False
+Robert Dadok,Attacking Midfield,28,€300k,Poland,Betclic 1 Liga,Stal Mielec,Poland,Betclic 1 Liga,Polonia Warsaw,0,False
+James Tilley,Right Winger,27,€300k,England,League One,AFC Wimbledon,England,League One,Wycombe Wanderers,0,False
+Gianmarco Cangiano,Left Winger,23,€300k,Italy,Serie A,Bologna FC 1909,Italy,Serie B,Delfino Pescara 1936,0,False
+Dylan Williams,Left-Back,21,€300k,England,Without League,Chelsea FC U21,England,League One,Burton Albion,0,False
+Daylam Meddah,Centre-Back,22,€300k,France,Championnat National,SM Caen,France,Ligue 2,Pau FC,0,False
+Setigui Karamoko,Centre-Back,25,€300k,France,Championnat National,Aubagne FC,France,Ligue 2,Pau FC,0,False
+Milan Robberechts,Right Winger,21,€300k,Netherlands,Eredivisie,Fortuna Sittard,Belgium,Challenger Pro League,Patro Eisden Maasmechelen,0,False
+Abdullah Yousef,Right-Back,23,€300k,Qatar,Without League,Al-Gharafa SC,Qatar,Without League,Al-Rayyan SC,0,False
+Mahmoud Abunada,Goalkeeper,25,€300k,Qatar,Without League,Al-Arabi SC,Qatar,Without League,Al-Rayyan SC,0,False
+Artem Simonyan,Attacking Midfield,30,€300k,Russia,1.Division,SKA Khabarovsk,Russia,1.Division,Rotor Volgograd,0,False
+Gleb Bakharev,Left Winger,22,€300k,Russia,2. Division A (Phase 2),Sibir Novosibirsk,Russia,1.Division,Sokol Saratov,0,False
+Cherif Diouf,Centre-Back,25,€300k,Serbia,Prva liga Srbije,OFK Vrsac,Bosnia-Herzegovina,Without League,FK Borac Banja Luka,0,False
+Gylermo Siereveld,Centre-Back,23,€300k,Spain,Without League,Terrassa FC,Bosnia-Herzegovina,Without League,FK Borac Banja Luka,0,False
+Darío Benavides,Right-Back,22,€300k,Spain,Without League,Sevilla Atlético,Belgium,Jupiler Pro League,RAAL La Louvière ,0,False
+Kenedy,Left Winger,29,€300k,Spain,LaLiga,Real Valladolid CF,Mexico,Liga MX Apertura,CF Pachuca,0,True
+Giacomo Venturi,Goalkeeper,33,€300k,Italy,Serie C-B,AS Gubbio 1910,Italy,Serie C-B,SS Arezzo,0,False
+Aykut Ramadan,Attacking Midfield,26,€300k,Bulgaria,efbet Liga,Slavia Sofia,Bulgaria,efbet Liga,Dobrudzha Dobrich,0,False
+Kolyo Stanev,Right-Back,23,€300k,Bulgaria,Vtora Liga,Etar Veliko Tarnovo,Bulgaria,efbet Liga,Dobrudzha Dobrich,0,False
+Marco Sulzner,Centre-Back,21,€300k,Austria,Bundesliga,LASK,Austria,Bundesliga,Wolfsberger AC,0,False
+Klemen Nemanic,Centre-Back,28,€300k,Slovenia,Prva Liga,NK Celje,Slovakia,Nike Liga,DAC Dunajska Streda,0,False
+Aleksej Golijanin,Centre-Forward,22,€300k,Latvia,Virsliga,FC RFS,Serbia,Super liga Srbije,FK Radnicki 1923 Kragujevac,0,False
+Nikola Marjanovic,Centre-Back,27,€300k,Serbia,Prva liga Srbije,FK Tekstilac Odzaci,Serbia,Super liga Srbije,FK Radnicki 1923 Kragujevac,0,False
+Roman Macek,Central Midfield,28,€300k,Switzerland,Super League,FC Lugano,Czech Republic,Chance Liga,FK Mlada Boleslav,0,False
+Gabriel Sotomayor,Left Winger,25,€300k,Malta,Without League,Floriana FC,Bolivia,División Profesional,The Strongest La Paz,0,False
+Hossein Sangargir,Right-Back,27,€300k,Iran,Azadegan League,Sanat Naft FC,Iran,Persian Gulf Pro League,Foolad FC,0,False
+Sebastian Kerk,Attacking Midfield,31,€300k,Poland,Ekstraklasa,Widzew Lodz,Poland,Ekstraklasa,Arka Gdynia,0,False
+Christian Manrique,Left-Back,26,€300k,Spain,Without League,AD Alcorcón,Greece,Super League 1,Panetolikos GFS,0,False
+Ju-gong Kim,Right Winger,29,€300k,"Korea, South",K League 1,Jeju SK,"Korea, South",K League 1,Daegu FC,0,False
+Jeong-un Hong,Centre-Back,30,€300k,"Korea, South",K League 1,Daejeon Hana Citizen,"Korea, South",K League 1,Daegu FC,0,False
+Tae-joon Park,Central Midfield,26,€300k,"Korea, South",K League 1,Gwangju FC,"Korea, South",K League 1,Gimcheon Sangmu,0,True
+Tiago Reis,Centre-Forward,25,€300k,Portugal,Liga Portugal 2,GD Chaves,Angola,Without League,CA Petróleos Luanda,0,False
+Jó Paciência,Centre-Forward,28,€300k,Angola,Without League,FC Onze Bravos do Maquis,Angola,Without League,CA Petróleos Luanda,0,False
+Sergio Díaz,Left Winger,27,€300k,Greece,Super League 1,Panetolikos GFS,Paraguay,Primera División Apertura,Sportivo Luqueño,0,False
+Alexandros Kouros,Left-Back,31,€300k,Malta,Without League,Floriana FC,Albania,Kategoria Superiore,KF Vllaznia,0,False
+Esteban Mouton,Right-Back,21,€300k,France,Championnat National,Aubagne FC,France,Championnat National,US Orléans,0,False
+Toby Mullarkey,Centre-Back,29,€300k,England,League Two,Crawley Town,England,League Two,Fleetwood Town,0,False
+Saddil Ramdani,Left Winger,26,€300k,Malaysia,Super League,Sabah FC,Indonesia,Without League,PERSIB Bandung,0,False
+Caio Gomes,Left-Back,22,€300k,Ukraine,Persha Liga,Chornomorets Odesa,Brazil,Without League,Brusque Futebol Clube (SC),0,False
+Maximiliano Juambeltz,Centre-Forward,22,€300k,Argentina,Torneo Apertura,CS Independiente Rivadavia,Ecuador,LigaPro Serie A,CD Macará,0,False
+Eddy Mejía,Left-Back,25,€300k,Ecuador,LigaPro Serie A,CD El Nacional,Ecuador,LigaPro Serie A,CD Universidad Católica,0,False
+Jesús Hernández,Attacking Midfield,25,€300k,Mexico,Without League,CF Atlante,Guatemala,Liga Guate Apertura,Atlético Mictlán,0,False
+Richard Celis,Left Winger,29,€300k,India,Indian Super League,East Bengal FC,Ecuador,LigaPro Serie A,Técnico Universitario,0,False
+Elian Carabalí,Centre-Forward,25,€300k,Bolivia,División Profesional,CD Real Tomayapo,Ecuador,LigaPro Serie A,Técnico Universitario,0,False
+Jerry Parrales,Right-Back,28,€300k,Ecuador,LigaPro Serie A,Mushuc Runa SC,Ecuador,LigaPro Serie A,Delfín SC,0,False
+Ahmed El Aash,Centre-Back,27,€300k,Egypt,Without League,Bank El Ahly,Egypt,Without League,El Gouna FC,0,False
+Mathis Picouleau,Central Midfield,25,€300k,France,Without League,Nîmes Olympique,France,Championnat National,US Concarneau,0,False
+Yusei Egawa,Centre-Back,24,€300k,Japan,J1 League,Gamba Osaka,Japan,J2 League,V-Varen Nagasaki,0,False
+Tomoyuki Doi,Centre-Forward,27,€300k,Singapore,Premier League,Geylang International,Thailand,Thai League,BG Pathum United,0,False
+Milos Drincic,Centre-Back,26,€300k,India,Without League,Kerala Blasters FC,Thailand,Thai League,BG Pathum United,0,False
+Jairón Charcopa,Centre-Forward,21,€300k,Ecuador,LigaPro Serie A,LDU Quito,Ecuador,LigaPro Serie A,Mushuc Runa SC,0,True
+Christophe Janssens,Left-Back,27,€300k,Belgium,Challenger Pro League,Francs Borains,Belgium,Challenger Pro League,SK Beveren,0,False
+Jakup Berisha,Left Winger,25,€300k,Kosovo,Without League,FC Suhareka,Kosovo,Superliga e Kosovës,FC Ferizaj,0,False
+Anass Nouader,Centre-Back,27,€300k,Iraq,Without League,Al-Karkh SC,Morocco,Botola Pro Inwi,COD Meknès,0,False
+Maxuell Samurai,Centre-Forward,33,€300k,Malta,Without League,Birkirkara FC,Malta,Without League,Gzira United FC,0,False
+André,Centre-Forward,29,€300k,Malta,Without League,Melita FC,Malta,Without League,Gzira United FC,0,False
+Zoárd Nagy,Centre-Forward,25,€300k,Hungary,NB II.,Aqvital FC Csákvár,Hungary,NB I.,Puskás Akadémia FC,0,False
+Dániel Lukács,Centre-Forward,29,€300k,Hungary,NB II.,Kecskeméti TE,Hungary,NB I.,Puskás Akadémia FC,0,False
+Mario Bratu,Right Midfield,23,€300k,Romania,SuperLiga,Petrolul Ploiesti,Romania,Liga 2,Corvinul Hunedoara,0,False
+Christian,Striker,25,€300k,Andorra,Primera Divisió,Atlètic Club d'Escaldes,Mexico,Without League,Tlaxcala FC,0,False
+Edwuin Pernía,Centre-Forward,30,€300k,Argentina,Torneo Apertura,CA San Martín (San Juan),Venezuela,Liga FUTVE Apertura,Academia Puerto Cabello,0,False
+Ilay Elmkies,Central Midfield,25,€300k,Israel,Ligat ha'Al,Ihud Bnei Sakhnin,Israel,Ligat ha'Al,Ironi Tiberias,0,False
+Dani Iglesias,Central Midfield,29,€300k,Romania,Liga 2,CSA Steaua,Romania,Liga 2,Sepsi OSK Sf. Gheorghe,0,False
+Kristijan Tojcic,Centre-Back,25,€300k,Slovenia,Without League,NK Nafta 1903,Serbia,Super liga Srbije,Zeleznicar Pancevo,0,False
+Marcos Blasco,Left-Back,23,€300k,Andorra,Primera Divisió,UE Santa Coloma,Andorra,Primera Divisió,Atlètic Club d'Escaldes,0,False
+Pablo Molina,Central Midfield,22,€300k,Andorra,Primera Divisió,UE Santa Coloma,Andorra,Primera Divisió,Atlètic Club d'Escaldes,0,False
+Fares Abu Akel,Defensive Midfield,28,€300k,Israel,Ligat ha'Al,Ironi Tiberias,Israel,Ligat ha'Al,Maccabi Bnei Reineh,0,False
+Gabriel Gomes,Centre-Back,25,€300k,Brazil,Without League,AD Internacional de Minas,Ukraine,Persha Liga,Metalist Kharkiv,0,False
+Diego Torres,Right Winger,22,€300k,Paraguay,Primera División Apertura,Olimpia Asunción,Brazil,Série B,Amazonas FC,0,False
+Stephane Aziz Ki,Attacking Midfield,29,€250k,Tanzania,Without League,Young Africans SC,Morocco,Botola Pro Inwi,Wydad Casablanca,287k,False
+Ondrej Coudek,Centre-Back,20,€250k,Czech Republic,ChNL,SK Dynamo Ceske Budejovice,Czech Republic,ChNL,SK Artis Brno,285k,False
+Alexandros Kyziridis,Left Winger,24,€275k,Slovakia,Nike Liga,Zemplin Michalovce,Scotland,Premiership,Heart of Midlothian FC,0,False
+Codruț Sandu,Goalkeeper,19,€275k,Romania,SuperLiga,FC Rapid 1923,Romania,SuperLiga,FC Dinamo 1948,0,False
+Anas Mahamid,Centre-Forward,27,€275k,Israel,Liga Leumit,Maccabi Petah Tikva,Israel,Ligat ha'Al,Hapoel Tel Aviv,0,False
+Nathan Smith,Centre-Back,29,€275k,England,League One,Port Vale FC,England,League Two,Tranmere Rovers,0,False
+Kian Spence,Central Midfield,24,€275k,England,League Two,Barrow AFC,England,League One,Rotherham United,0,False
+Jordan Shipley,Left Midfield,27,€275k,England,League Two,Shrewsbury Town,England,League One,Port Vale FC,0,False
+Liam Gordon,Left-Back,26,€275k,England,League Two,Walsall FC,England,League One,Port Vale FC,0,False
+Ryan Stirk,Defensive Midfield,24,€275k,England,League Two,Walsall FC,England,League Two,Chesterfield FC,0,False
+Dimitris Dimitriou,Goalkeeper,26,€275k,Cyprus,Cyprus League,Apollon Limassol,Cyprus,Cyprus League,AEK Larnaca,0,False
+Dillon Phillips,Goalkeeper,30,€275k,England,League One,Rotherham United,England,Championship,Hull City,0,False
+Stefan Vukic,Centre-Forward,30,€275k,Russia,1.Division,Sokol Saratov,Cyprus,Cyprus League,Anorthosis Famagusta,0,False
+Lautaro Parisi,Centre-Forward,31,€275k,Argentina,Primera Nacional,CA San Miguel,Argentina,Primera Nacional,Club Ferro Carril Oeste,0,False
+Daniel Tenenbaum,Goalkeeper,30,€275k,Israel,Ligat ha'Al,Ironi Tiberias,Israel,Ligat ha'Al,Ironi Kiryat Shmona,0,False
+Arsalan Motahari,Centre-Forward,32,€275k,Iran,Azadegan League,Niroye Zamini FC,Iran,Persian Gulf Pro League,Fajr Sepasi Shiraz,0,False
+Mateo Susic,Right-Back,34,€275k,Cyprus,Cyprus League,APOEL Nicosia,Bosnia-Herzegovina,Without League,HSK Zrinjski Mostar,0,False
+Konstantinos Doumtsios,Centre-Forward,27,€275k,Netherlands,Keuken Kampioen Divisie,FC Den Bosch,Romania,SuperLiga,Petrolul Ploiesti,0,False
+Dennis Gaustad,Right Winger,21,€275k,Norway,OBOS-ligaen,Ranheim IL,Cyprus,Cyprus League,Aris Limassol,0,False
+Majdi Al-Attar,Right Winger,29,€275k,Jordan,Without League,Al-Hussein SC (Irbid),Jordan,Without League,Al-Faisaly SC,0,False
+Yousef Abu Al-Jazar,Centre-Back,25,€275k,Jordan,Without League,Al-Wehdat SC,Kuwait,Without League,Kazma SC,0,False
+Yhonathann Yustiz,Goalkeeper,33,€275k,Venezuela,Liga FUTVE Apertura,Anzoátegui FC,Ecuador,LigaPro Serie A,Técnico Universitario,0,True
+Haruka Motoyama,Defensive Midfield,26,€275k,Japan,J1 League,Vissel Kobe,Japan,J1 League,Fagiano Okayama,0,True
+Marko Matanovic,Defensive Midfield,24,€275k,Bosnia-Herzegovina,Without League,FK Sarajevo,Hungary,NB I.,Kisvárda FC,0,False
+Marin Caruntu,Centre-Forward,27,€275k,Moldova,Without League,FC Petrocub Hincesti,Moldova,Without League,Dacia Buiucani,0,False
+Dong-min Kim,Centre-Back,30,€275k,"Korea, South",K League 2,Incheon United,"Korea, South",K League 2,Gimpo FC,0,True
+Rober Sierra,Central Midfield,29,€275k,Romania,Liga 2,CSA Steaua,Romania,SuperLiga,ACSC FC Arges,0,False
+Sambinha,Centre-Back,32,€275k,Israel,Ligat ha'Al,Maccabi Bnei Reineh,Israel,Ligat ha'Al,Ironi Tiberias,0,False
+Dzemal Ibishi,Centre-Forward,24,€275k,North Macedonia,Prva liga,FC Shkupi,Kosovo,Superliga e Kosovës,FC Malisheva,0,False
+Marcus Müller,Centre-Forward,22,€250k,Germany,3. Liga,VfL Osnabrück,Germany,2. Bundesliga,Holstein Kiel,250k,False
+Emmanuel Gyamfi,Left-Back,20,€200k,Germany,Regionalliga West,FC Schalke 04 II,Scotland,Premiership,Aberdeen FC,250k,False
+Mouhamadou Sarr,Goalkeeper,28,€250k,Italy,Serie A,US Cremonese,Italy,Serie B,Spezia Calcio,200k,False
+Milot Avdyli,Right Midfield,22,€250k,Ukraine,Persha Liga,Vorskla Poltava,Slovenia,Prva Liga,NK Celje,150k,False
+David Matei,Central Midfield,18,€250k,Romania,Liga 2,CSA Steaua,Romania,SuperLiga,CS Universitatea Craiova,75k,False
+Samuele Damiani,Defensive Midfield,27,€200k,Italy,Serie B,Palermo FC,Italy,Serie C-B,Ternana Calcio,180k,False
+Denys Taraduda,Centre-Back,24,€200k,Slovakia,Nike Liga,Zemplin Michalovce,Slovakia,Nike Liga,Spartak Trnava,150k,False
+Hamed Asgari,Right-Back,-,€200k,Iran,Azadegan League,Beasat Kermanshah,Iran,Persian Gulf Pro League,Zob Ahan Esfahan,53k,False
+Erik Weinhauer,Second Striker,24,€175k,Germany,Regionalliga Northeast,FC Carl Zeiss Jena,Germany,3. Liga,FC Erzgebirge Aue,40k,False
+Roy Korine,Right Winger,22,€125k,Israel,Ligat ha'Al,Maccabi Netanya,Israel,Ligat ha'Al,Hapoel Tel Aviv,150k,False
+Timofey Mitrov,Goalkeeper,20,€150k,Russia,Premier Liga,Lokomotiv Moscow,Russia,1.Division,Shinnik Yaroslavl,50k,False
+Bennedikt Wüstenhagen,Centre-Forward,19,€125k,Germany,Regionalliga Northeast,BFC Dynamo,Germany,Regionalliga West,Borussia Dortmund II,100k,False
+Federico Valietti,Right-Back,26,€100k,Italy,Serie A,Genoa CFC,Italy,Without League,FC Trapani 1905,500,False
+Robin Fabinski,Centre-Back,21,€75k,Germany,Regionalliga Northeast,Rot-Weiß Erfurt,Germany,3. Liga,VfL Osnabrück,50k,False
+Hasan Gomda,Centre-Back,21,€50k,Ghana,Without League,Golden Boys FC,Kosovo,Superliga e Kosovës,FC Drita,20k,False
+Till Jacobi,Central Midfield,22,€50k,Germany,Regionalliga Northeast,FSV 63 Luckenwalde,Germany,Regionalliga Northeast,FSV Zwickau,10k,False
+Amin Cosic,Left Winger,19,€10k,Iceland,Lengjudeild,UMF Njardvík,Iceland,Besta deild,KR Reykjavík,45k,False
+Fabio Blaga,Goalkeeper,19,-,Romania,Without League,ACS Mediaș 2022,Romania,Liga 2,Corvinul Hunedoara,20k,False
+Sadio Dembélé,Centre-Back,22,-,Germany,Oberliga Baden-Württemberg,VfR Aalen,Bulgaria,efbet Liga,CSKA 1948,15k,False
+Brian Torrado,Striker,-,-,Poland,Without League,Warta Srem,Poland,Without League,UKS Śrem,10k,False
+Nicolas Constantinescu,Centre-Forward,18,-,Romania,Without League,Aerostar Bacau,Romania,SuperLiga,FCV Farul Constanta,40k,False
+Antonio Jozanovic,Central Midfield,18,-,Germany,Without League,FC Carl Zeiss Jena U19,Germany,Regionalliga West,Borussia Mönchengladbach II,30k,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
+David Asanka,Striker,20,-,Israel,Without League,Beitar Nordia Jerusalem,Israel,Liga Leumit,Hapoel Ramat Gan,25k,False
+Conor Tönnies,Second Striker,19,-,Germany,Oberliga Niederrhein,SpVg Schonnebeck,Germany,Regionalliga West,Fortuna Düsseldorf II,10k,False
+Warren Ngana,Centre-Back,16,-,Sweden,Without League,Djurgårdens IF U17,Germany,Without League,RB Leipzig U19,1.0,False
